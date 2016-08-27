@@ -22,7 +22,7 @@ repo: internet-of-things
 # Masthead title
 masthead_link: http://internet-of-things.apievangelist.com
 masthead_font_size: 90
-masthead_title: '{"API Client"}'
+masthead_title: '{"API IoT"}'
 
 # Feature
 feature_title: API Guide

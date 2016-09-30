@@ -1,5 +1,381 @@
 [
 	{
+		"curated_id": "8zQ6iBPNcAaEqCwfEkLzBkCbHXUMV2BhCIjjFA1Gc6TpUWnG97l1YiJ28Bt7uMTqwH1230mcb123NyA4ljene4H9Lw117117",
+		"item_date": "2016-09-24 00:00:00",
+		"title": "Spotting Hidden Asset Dependencies With the Internet of Things",
+		"url": "https://dzone.com/articles/spotting-hidden-asset-dependencies-with-the-intern",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "lE4r4YmegSRwnIs116VpxQSjXyc1x5kgxz3x0dSUackFALJEYlaVLssLrFr4IUAbW4lPydyJhZchjd3muyAg2hCw117117",
+		"item_date": "2016-09-23 00:00:00",
+		"title": "Even More APIs and IoT at the Small Business Tech Hackathon",
+		"url": "https://developer.intuit.com/hub/blog/2016/09/23/even-more-apis-iot-small-business-tech-hackathon",
+		"domain": "developer.intuit.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Awy123CZi1tKOfq46Tl7DuS116lk36XSq1RoWgcb3Lm123OJKyKyQgAwCVS4hP9F78ymk8XrTXgfN7sEd54nSFMCvb116w117117",
+		"item_date": "2016-09-23 00:00:00",
+		"title": "Power Outage Alerting System piday raspberrypi RaspberryPi",
+		"url": "https://blog.adafruit.com/2016/09/23/power-outage-alerting-system-piday-raspberrypi-raspberry_pi/",
+		"domain": "blog.adafruit.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YYlnxDi4PbBFjDndp1vdmJ6t2123MyX116TgtwarymA6LfYu8preBertYka2RzrleMt3mj116g08RJzcWHeODSxPkR3w117117",
+		"item_date": "2016-09-23 00:00:00",
+		"title": "London police want the power to remotely disable your car",
+		"url": "http://www.businessinsider.com/metropolitan-police-boss-hogan-howe-kill-switch-remotely-disable-stop-criminals-cars-2016-9",
+		"domain": "www.businessinsider.com",
+		"image": ""
+	},
+	{
+		"curated_id": "2rM7oDsTdQyBOHOE00XhSfebzuktBEmdYpr3maC7uw4JAI123t123shDNyQt0w9dVgwDyZlNyEpDs4zX6r116i116LSqnw117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "DHS Assistant Secretary Internet Of Things Security Is A Public Safety Issue",
+		"url": "http://www.crn.com/news/security/300082188/dhs-assistant-secretary-internet-of-things-security-is-a-public-safety-issue.htm",
+		"domain": "www.crn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "zqJpAgjOvN8whcDtN4aVpFwXzrflGfaIW5U1GoHE3dUzfp6Aa67c4gfQm3q2CSDsLW1wJaYqo3bk7faSQT1yfg117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Cisco Salesforce partner on Internet of Things collaboration contact center integration",
+		"url": "http://www.zdnet.com/article/cisco-salesforce-partner-on-internet-of-things-collaboration-contact-center-integration/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "116yIvT2Q1RWMv2r9l7F7K38LM7157r5d9nRkJEpLzWfu9sY6hN8us2116N3JMc54ld116aJZbWWYWvzJjtAEUwP3GMA117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Testing the Internet of Everything",
+		"url": "https://dzone.com/articles/testing-the-internet-of-everything",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Rr7zCBhEAHAatYYGLF74Vp116WT9CztK7FP9123907uLXVPvor8fWHfgV4IlwVdgowvUpObeY9Tob961VkofgBjqPw117117",
+		"item_date": "2016-09-20 00:00:00",
+		"title": "Greenwave Systems Scoops Up Analytics Company Predixion Software To Bolster IoT Platform",
+		"url": "http://www.crn.com/news/internet-of-things/300082147/greenwave-systems-scoops-up-analytics-company-predixion-software-to-bolster-iot-platform.htm",
+		"domain": "www.crn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "hzxL9Eip8XWJ1G9NI70ONJlgg4z4qF7MJzYXsyBGnBUs6s2TDMtx7huSGgK123xUeLRVstj0i5D123LfdLndepxf6g117117",
+		"item_date": "2016-09-20 00:00:00",
+		"title": "Internet of Things Security from the Ground Up",
+		"url": "http://www.codeproject.com/Articles/1130661/Internet-of-Things-Security-from-the-Ground-Up",
+		"domain": "www.codeproject.com",
+		"image": ""
+	},
+	{
+		"curated_id": "rg0lnh8gjPnbUOYhefttu2XeysAKOZ90Wk1Pl0eowaUHTUVEAiQGEYyHNKxbv9p116QIeJjHvBVc116RJPHYNHCb9w117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "IoT with Elixir and CoAP part 2 How to easily prototype and build an IoT platform",
+		"url": "/blog/2016/iot-with-elixir-and-coap-part-2-example-on-how-to-easily-prototype-and-build-an-iot-platform/",
+		"domain": "",
+		"image": ""
+	},
+	{
+		"curated_id": "Jyf6RcSUSZbp1234GqpxBodijDvTrg7yjlD123jB0FbV9Wuo116mVe34PbZ123kCVqwpYGpWsuJhU123IyeQQVbeO4aKxzxw117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "Internet Of Things Gaining Traction As Enterprises Look For The Next Level Of Data Analytics",
+		"url": "http://www.crn.com/news/internet-of-things/300082175/idc-internet-of-things-gaining-traction-as-enterprises-look-for-the-next-level-of-data-analytics.htm",
+		"domain": "www.crn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "qSi76sDgLb857rBHOxSkukkyyhMg5u123H6sD351R51XWwNrxqwM1wJzu2hbmPoZV3cYRXV9cvMgKEF4fNq6z91Q117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "What Blockchain Means for the Internet of Things",
+		"url": "https://dzone.com/articles/what-blockchain-means-for-the-internet-of-things",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "GXGCFNBwonCPxB7R2Dy74c1169JV12389w123GusY3RwAq7excustXEq1h1Et0BUclNyOLTSFWz6BgGM9sRhruRgbHaA117117",
+		"item_date": "2016-09-20 00:00:00",
+		"title": "Expose your Raspberry Pi on Any Network",
+		"url": "https://hackaday.com/2016/09/20/expose-your-raspberry-pi/",
+		"domain": "hackaday.com",
+		"image": ""
+	},
+	{
+		"curated_id": "WnwEN4hNu1e123YO9Kw6dRMforfvI0a92bvR8lH116uEsIofWItAllwrL8XfmEdWHk8ZS3MLGet01XcKK1RqTIhbHA117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "InfluxData closes 16 million Series B led by Battery Ventures to organize IOT data",
+		"url": "https://techcrunch.com/2016/09/21/influxdata-closes-16-million-series-b-led-by-battery-ventures-to-organize-iot-data/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "TN65n4cDFf2rpys1bgwAb6LUu2uW8gSi123rbz7k123u0HKqWpX2od1dxejUdhpN3wFtQNqcxYlztf4As98pmk123cAw117117",
+		"item_date": "2016-09-19 00:00:00",
+		"title": "HP detonates its timebomb printers stop accepting third party ink en masse",
+		"url": "http://boingboing.net/2016/09/19/hp-detonates-its-timebomb-pri.html",
+		"domain": "boingboing.net",
+		"image": ""
+	},
+	{
+		"curated_id": "H116cZ1236ZyGhUeHlY0BGa1IRFKfN9uYKxkeF2w8PUc4xGal6123ATABDFubXtV116yHCq116FTUIv4akHs9PfMzxFPrhxg117117",
+		"item_date": "2016-09-15 00:00:00",
+		"title": "Internet of Things Why Tools Matter",
+		"url": "http://blog.qt.io/blog/2016/09/15/internet-of-things-why-tools-matter/",
+		"domain": "blog.qt.io",
+		"image": ""
+	},
+	{
+		"curated_id": "x1bmXlOXMHwzvfUZyzaixdDjRu11697x2h9m3NTMjDp97HqoTZYtTpJSR8UYzL29iGb4Q7ohoD7116s116C5123ZTRqhTA117117",
+		"item_date": "2016-09-15 00:00:00",
+		"title": "Open Hardware RC Radios",
+		"url": "https://hackaday.com/2016/09/15/open-hardware-rc-radios/",
+		"domain": "hackaday.com",
+		"image": ""
+	},
+	{
+		"curated_id": "CWTpD6Sm3G7pQNmaBpdUOFeTDeQ7J6MfX9CWt5116pLFEkYCOoS5EI20uu86ZYXwzUsBQvvcqlbe73lRnm8lTsQg117117",
+		"item_date": "2016-09-15 00:00:00",
+		"title": "How To Create Business Value From Internet of Things",
+		"url": "http://www.cxotoday.com/story/how-to-create-business-value-from-internet-of-things/",
+		"domain": "www.cxotoday.com",
+		"image": ""
+	},
+	{
+		"curated_id": "5pJAH116zHECF116A123bOZdLLjV1ZjzsSOQkqv6NGxU0GZCBLqtV2XMPBLKwGLTyEJ9HnCDG116txmRmQBvkwlOXAra4Q117117",
+		"item_date": "2016-09-12 00:00:00",
+		"title": "Hitchhikers Guide to IoT Standards and Protocols",
+		"url": "https://dzone.com/articles/hitchhikers-guide-to-iot-standards-and-protocols",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "9vngnSJJpTg3ZFjGd2rLt116DGORFQTSAwSTESFSa7tPftS9HW123wrU123B95GoafV5o8p38OGl5nji00NLkkahYpww117117",
+		"item_date": "2016-09-12 00:00:00",
+		"title": "The IoT and Cloud security measures  not as well developed as needed",
+		"url": "http://www.designworldonline.com/iot-cloud-security-measures-not-well-developed-needed/",
+		"domain": "www.designworldonline.com",
+		"image": ""
+	},
+	{
+		"curated_id": "PLpu116WARKELE12341fbd123gHsx38Y8cLSoNqmFTvwuvRRBMSLEJJyfedYfCCmP116f3IO0cInjD594LQD8kQheICViw117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "Prototyping kit gets your IoT app on Google Cloud Platform fast",
+		"url": "https://cloudplatform.googleblog.com/2016/09/prototyping-kit-gets-your-IoT-app-on-Google-Cloud-Platform-fast.html",
+		"domain": "cloudplatform.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "k22H3QA116KBR0OfHvpe2bfjwhQ52lMk116E7sg2whKi8o7VcWLYl6OROVFY8weA3c4ZnYAjOUZAWPng78ZEyXu123cA117117",
+		"item_date": "2016-09-14 00:00:00",
+		"title": "Class action suit smart sex toys spy on their owners and transmit their masturbation habits",
+		"url": "http://boingboing.net/2016/09/14/class-action-suit-smart-sex-t.html",
+		"domain": "boingboing.net",
+		"image": ""
+	},
+	{
+		"curated_id": "MtVVXZsd4HKAb2O77HvFOrNu123PT3123123KU1239esK43pktUPfgGEpMiXe4gzohdbwH116pDdLIH1168fdL116vAg123bSqtDHg117117",
+		"item_date": "2016-09-14 00:00:00",
+		"title": "A Sex Toy Lawsuit Highlights Privacy Concerns Around Smart Dildos",
+		"url": "http://motherboard.vice.com/read/a-sex-toy-lawsuit-highlights-privacy-concerns-around-smart-dildos",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "JydIGdXrzgwwtS3QNXB859oe123qeW116hM9RnEMHWAo6eUmHCTibCDwHpR116v1XyU5IljWMMuR9FZB9lIHZvRdxFyQ117117",
+		"item_date": "2016-09-14 00:00:00",
+		"title": "The Data Briefing Harnessing the Internet of Things and Synthetic Data to Provide Better Flood Warnings and Prevent Veterans Suicides",
+		"url": "https://www.digitalgov.gov/2016/09/14/the-data-briefing-harnessing-the-internet-of-things-and-synthetic-data-to-provide-better-flood-warnings-and-prevent-veterans-suicides/",
+		"domain": "www.digitalgov.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "GhmZiJ5WoQ7u1csqHbwWOtK2S116hh8zDaRjO5mqR04vZjIRCF123qEwHM63FXEtgkR8zVZwO1nx2QSVhIRszA2UNw117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "Yes Your Database Can Be Breached Through A Coffee Pot",
+		"url": "http://www.darkreading.com/iot/yes-your-database-can-be-breached-through-a-coffee-pot/v/d-id/1326863",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "oMuDHQQSAgcqQoVGTdtj7PPmXrgDeE3116uKVJ124VONYIS37kIFrWeJnpQImZSSIJUaD1cpylyiOq9m3jVyU3cA117117",
+		"item_date": "2016-09-13 00:00:00",
+		"title": "DoJ Announces Team To Oversee Security Of Internet of Things",
+		"url": "http://www.darkreading.com/iot/doj-announces-team-to-oversee-security-of-internet-of-things/d/d-id/1326881",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "uRCUrinbRFZoKXOA1167Rk7rX0CZS8ls0u3vRiA116LxPbDPtSgMAfI7Ni7kNd5Cd68opvP123tgcuoW8FDnfN2dePPw117117",
+		"item_date": "2016-09-10 20:15:06",
+		"title": "Justice Dept group studying national security threats of internetlinked devices",
+		"url": "http://www.reuters.stfi.re/article/us-usa-cyber-justice-idUSKCN11F2FP",
+		"domain": "www.reuters.stfi.re",
+		"image": ""
+	},
+	{
+		"curated_id": "okmRVL154GrDE1U8rz9bySC37Dsz6vr5fBus1KD0H3ayCPlYqgkbq116hc1237VoVWmFNdNs0bSTyGrw1wZmJZBAFw117117",
+		"item_date": "2016-09-10 00:00:00",
+		"title": "Raspberry Pis new microcomputer is 10x faster than before",
+		"url": "http://boingboing.net/2016/09/10/raspberry-pis-new-microcompu.html",
+		"domain": "boingboing.net",
+		"image": ""
+	},
+	{
+		"curated_id": "xOEi2yzs6W7Sz0fghhAUg0prtisP5mwsP4k6a86AMDQP0GGru2KhXUwXqzPGFyHIqIrbJ3smQw17W4uCaR6Qpg117117",
+		"item_date": "2016-09-05 00:00:00",
+		"title": "How Edge Computing can Solve Complex IIoT Problems",
+		"url": "https://dzone.com/articles/thecube-speaks-with-jeremiah-stone-about-edge-comp",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "QLHTEQCewSb123wNihwKrfpMU123rzpey784giM5VpzVVFkUrkcSypaEc85IlLqpu6jXwDWHpK123OPCaf6i9x5Oftrw117117",
+		"item_date": "2016-09-06 00:00:00",
+		"title": "LTE is hitting the field in the IoT game",
+		"url": "http://www.pcworld.com/article/3117269/lte-is-hitting-the-field-in-the-iot-game.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ZnGWXwPSIG3y3tjB116RasscRbjx0q13L5Yh8YN4cO1T6XpL0xApff9xBfbma65MsR1WRujDITXZnJ11611Q2sqt1g117117",
+		"item_date": "2016-09-06 00:00:00",
+		"title": "IBM Targets Variety Of Verticals For IoT Business Partner Opportunities",
+		"url": "http://www.crn.com/news/internet-of-things/video/300081975/ibm-targets-variety-of-verticals-for-iot-business-partner-opportunities.htm",
+		"domain": "www.crn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "1TdfHCBpn4wYG8K116CoKOX58mQ24mRdA0ySgWBYQt8Ce8M0khaRTnPWmhD3GCCa17mb4wSJ116P97Q34JWvyY3gqA117117",
+		"item_date": "2016-09-07 00:00:00",
+		"title": "IoT Needs to Play Nicely With Existing Systems",
+		"url": "https://dzone.com/articles/iot-needs-to-play-nicely-with-existing-systems",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "oiwT89mFgrjgml6x5RJht5WeFq0w3p123kyzN116H116Dm3V123a9w8yWgJlnP116XAXCIh7TzYaStM3SeRRq3BYciTjiDuA117117",
+		"item_date": "2016-09-08 14:01:09",
+		"title": "IoT Pilots should include basic security functional elements for experience Mastering IoT security means mastering new security techniques  Constellation Research Inc",
+		"url": "https://www.constellationr.com/blog-news/iot-pilots-should-include-basic-security-functional-elements-experience-mastering-iot-0",
+		"domain": "www.constellationr.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ABSXbGMIZ6BarP8swmaIN1UDYkXp1238yFpq6XshRPedy3x8sNYAE1XblWKHsDPQrbDkKCjtvfimae8IOhz9E82g117117",
+		"item_date": "2016-09-08 00:00:00",
+		"title": "Qualcomm has expanded its drone and IoT network projects QCOM",
+		"url": "http://www.businessinsider.com/qualcomm-has-expanded-its-drone-and-iot-network-projects-2016-9",
+		"domain": "www.businessinsider.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Su9YPecOaG7C4w5123XwHNNksCghfbUTzCVSriK7mtux78LVS9zRNOjsog68wU0CUtZC7xDQIS2qKglcSWhib9qg117117",
+		"item_date": "2016-09-08 00:00:00",
+		"title": "IoT Botnets Is Your Website at Risk",
+		"url": "https://dzone.com/articles/iot-botnets-is-your-website-at-risk",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "6OZdtN116SrKZr116hItGcNtOZ0ML0gBIxw2z148f2QTraN7cBGblqBsdY2rj2NcdMDDAr8xeHkSjoUz8zSRHUqd123g117117",
+		"item_date": "2016-09-08 00:00:00",
+		"title": "LIVALL Smart Cycling Helmets  With heart rate monitor walkietalkie speaker turn signal",
+		"url": "https://www.indiegogo.com/projects/livall-cycling-helmet-smart-safe-and-simple-bluetooth-bike/x/61463",
+		"domain": "www.indiegogo.com",
+		"image": ""
+	},
+	{
+		"curated_id": "sGFAz0dRJuvU2VqJXx5uwYyWX1nRROYnKtvN81pJ3d4F54z1r6nnliOKoYeg4u123m6VAz5LA24kIRdm3D4MktgA117117",
+		"item_date": "2016-09-06 00:00:00",
+		"title": "Updated Products  Adafruit Assembled Data Logging shield for Arduino  Light and temperature datalogger pack",
+		"url": "https://blog.adafruit.com/2016/09/06/updated-products-adafruit-assembled-data-logging-shield-for-arduino-light-and-temperature-data-logger-pack/",
+		"domain": "blog.adafruit.com",
+		"image": ""
+	},
+	{
+		"curated_id": "7AJyGjUTZxMRTzYrf4b50DXD2h5oqeLFHdIGwQHIzR123MSTVlDKL6XgzE1oUelDF7rgkQu5C6KRT1234agB6qP9123A117117",
+		"item_date": "2016-08-30 00:00:00",
+		"title": "More Than 1 Million IoT Devices Compromised by Single Malware Family",
+		"url": "https://continuum.cisco.com/2016/08/30/more-than-1-million-iot-devices-compromised-by-single-malware-family/",
+		"domain": "continuum.cisco.com",
+		"image": ""
+	},
+	{
+		"curated_id": "4nkTJDEJlHeA3XDJ2W4zgXxJOTSZcR116KjYbM0E376UzBoR6rWDeZ8t2QiVhhvXH0WJvt55eqv5POEb8116a0Jtkg117117",
+		"item_date": "2016-08-31 00:00:00",
+		"title": "Home Automation Playing With IoT Temperature Sensors Fans and Telegram Bots",
+		"url": "https://dzone.com/articles/home-automation-playing-with-iot-temperature-senso",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "WJaevsUR301237BpXhVaWCopKxkJiVilxQF6YU9Emt3pu4chzPNDlgv0Gx0aTxLfBlfcicSq1236HktZxER5jixShg117117",
+		"item_date": "2016-09-01 00:00:00",
+		"title": "The Developers Guide to Succeed in the IoT Era",
+		"url": "https://dzone.com/articles/developers-guide-to-succeed-in-the-iot-era",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "1JCRirsV116DTHrlpyGqJ4Eq11II1231dIDUYV6yB8VS3kGzVS7xCjPGgiKhdJZrNSkVU9smSwFhD3G8mImCywwAZA117117",
+		"item_date": "2016-09-02 00:00:00",
+		"title": "MedSecMuddy Waters  The Future Of IoT Security",
+		"url": "http://www.darkreading.com/vulnerabilities---threats/medsec-muddy-waters-and-the-future-of-iot-security-/d/d-id/1326806",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "fMqVtFRZb116IiWx8P2JTH53AuzLjYZLp0WAGQT0116dvAl8VSNy97116gRycrBBORWkhyzG1eIvRlfNq3mMo1T15eSg117117",
+		"item_date": "2016-09-01 00:00:00",
+		"title": "The lightbulb is dead long live the smart bulb",
+		"url": "http://www.iot-now.com/2016/09/02/51910-lightbulb-dead-long-live-smart-bulb/",
+		"domain": "www.iot-now.com",
+		"image": ""
+	},
+	{
+		"curated_id": "lyKgf116h7w116rwWlphq2vEK123jmEgf61iTHVefx3WmpO116iobv7a1160J7XMlzcDi3xqSyUrVNOJTadtBzZRLHjOEhUg117117",
+		"item_date": "2016-08-31 00:00:00",
+		"title": "JavaScript in the Realm of IoT with NodeRed",
+		"url": "https://blog.pusher.com/javascript-in-the-realm-of-iot-with-node-red/",
+		"domain": "blog.pusher.com",
+		"image": ""
+	},
+	{
+		"curated_id": "2Rbjdfa3oDBMNymmxZDXtC116zvrlI5HF7iabDs2v58a8rvaOHsqgQNlAr78btAxMAX3hI7LgbZ0F6fWQD123r116zCA117117",
+		"item_date": "2016-08-30 00:00:00",
+		"title": "Renesas Synergy Platform to Fuel Innovative IoT Design in Asia",
+		"url": "http://www.itvarnews.com/2016/08/30/renesas-synergy-platform-fuel-innovative-iot-design-asia-pacific/",
+		"domain": "www.itvarnews.com",
+		"image": ""
+	},
+	{
+		"curated_id": "w12gRNWYMpRhAhBtMSHfWgtQ123ZHbtK93EztzC6UAV9n5uoqTuwQMOpvRrQVsocG123Obfw116rKp13I0vlx5dXvSMA117117",
+		"item_date": "2016-08-26 00:00:00",
+		"title": "IBM Watson turns Raspberry Pi into a digital assistant RaspberryPi piday raspberrypi",
+		"url": "https://blog.adafruit.com/2016/08/26/ibm-watson-turns-raspberry-pi-into-a-digital-assistant-raspberry_pi-piday-raspberrypi/",
+		"domain": "blog.adafruit.com",
+		"image": ""
+	},
+	{
+		"curated_id": "W5oSqyxeE0VC0jYeAAkslwxj0h123116ND9Y3ugL2gWALfDrxivrRD123RZbgN3iXxirHfCOXK2B5zcNMp1jfmqPLvfQ117117",
+		"item_date": "2016-08-26 00:00:00",
+		"title": "Using Docker on a Raspberry Pi as an IoT hub piday raspberrypi RaspberryPi",
+		"url": "https://blog.adafruit.com/2016/08/26/using-docker-on-a-raspberry-pi-as-an-iot-hub-piday-raspberrypi-raspberry_pi/",
+		"domain": "blog.adafruit.com",
+		"image": ""
+	},
+	{
+		"curated_id": "QXd5PhiliPptGOPSAJr123eDGTf1tfF9V9NDnQpG8ksdzbLu8Qzpeq5eIbNxx5DNAKFm123O0U6k6NZvjUJhGa6EFQ117117",
+		"item_date": "2016-08-26 00:00:00",
+		"title": "Intel Releases Joule Internet of Things Maker Module Platform",
+		"url": "https://www.infoq.com/news/2016/08/intel-joule-iot-module",
+		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
 		"curated_id": "M37cqYDGNRpSegqMrVp123yco9cUDG7VcIJ123bUuc116TqM7H8WdNzAQoVl123RmYtrI123pUWmloFGnaqyzl9pO6osxRrg117117",
 		"item_date": "2016-08-25 08:48:39",
 		"title": "Street Light Poles Potential Monetization Engines for Smart Cities",
@@ -19,7 +395,7 @@
 		"curated_id": "hZyt3x7SMLOgxxxXR0nbGzXe116de116123kKivbtcUB3ihpFjJuRH2qQptIErZrso3upTmz2kQvbjXzxjnj69iHzNLg117117",
 		"item_date": "2016-08-23 00:00:00",
 		"title": "An InDepth Look at the Tibbo AggreGate IoT Platform Concept",
-		"url": "https://dzone.com/articles/tibbo-aggregate-iot-platform-concept?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"url": "https://dzone.com/articles/tibbo-aggregate-iot-platform-concept",
 		"domain": "dzone.com",
 		"image": ""
 	},
@@ -2994,7 +3370,7 @@
 	{
 		"curated_id": "lI6WtDGiuady31166aIA116y123116YOHLG6iB116B81236l72RhpKlV3Rr1166kwfaCfD2123JLZwBls2fGZWif6kkWZMrxWHjZxw117117",
 		"item_date": "2015-08-31 00:00:00",
-		"title": "pahodev TLSMQTTsecure is now enabled on Eclipse IoT sandbox ioteclipseorg",
+		"title": "pahodev TLSMQTTsecure is now enabled on Eclipse IoT sandbox",
 		"url": "http://dev.eclipse.org/mhonarc/lists/paho-dev/msg02900.html",
 		"domain": "dev.eclipse.org",
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/dev-eclipse-orgmhonarclistspaho-devmsg02900-html.png"

@@ -1,5 +1,205 @@
 [
 	{
+		"curated_id": "ZfAgZG5AehgGc8GvHsn116DvKUDXB1rDOfy6cZt0ANfBuc8e3ZWSySEDvbQp270YpMnWfbwxC4QHjEhtWY92UcWQ117117",
+		"item_date": "2016-09-26 00:00:00",
+		"title": "What HP Must Do to Make Amends for Its SelfDestructing Printers",
+		"url": "https://www.eff.org/deeplinks/2016/09/what-hp-must-do-make-amends-its-self-destructing-printers",
+		"domain": "www.eff.org",
+		"image": ""
+	},
+	{
+		"curated_id": "pWyNkSPEdwpHJ116vUztv116tleV7qxEUHRsu1iQopymmM9123yTZsqDpkXFujCsaInNedek9l37116hletLRYJTuHbQ2Q117117",
+		"item_date": "2016-09-26 00:00:00",
+		"title": "How IoT adopters can make efficient use of their data",
+		"url": "https://techcrunch.com/2016/09/26/how-iot-adopters-can-make-efficient-use-of-their-data/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "fgpW2m9I1DYCbAC4vbFPtlwzjyCC9UdMMSMEnyFnkEl0s5U16mydhrue3anQopp2msajhqIpohj8JrNHp123v0sg117117",
+		"item_date": "2016-09-27 00:00:00",
+		"title": "Securing Your IoT Deployment",
+		"url": "http://www.codeproject.com/Articles/1133508/Securing-Your-IoT-Deployment",
+		"domain": "www.codeproject.com",
+		"image": ""
+	},
+	{
+		"curated_id": "cvqXNGyrKYkPJGTi19mLWESWIjmzh3q4GvJ6uQJFIKFHiLY7G4VJ0uqlRnwXEsKBtsaPFGeAFJrd2G28oVpS0A117117",
+		"item_date": "2016-10-01 00:00:00",
+		"title": "Your next DDoS attack brought to you courtesy of the IoT",
+		"url": "http://boingboing.net/2016/10/01/your-next-ddos-attack-brought.html",
+		"domain": "boingboing.net",
+		"image": ""
+	},
+	{
+		"curated_id": "pa0d0UXXOxRbLtnT7GEGcYTeKjFd3R3gxedhOxp96uybJ68bLEISDiJvPp8LkXZDZUEXt1239QxJ116dXFLWvQ8QCQ117117",
+		"item_date": "2016-09-30 00:00:00",
+		"title": "Aura rethinks the digital picture frame with smarter software sensors  gesture control",
+		"url": "https://techcrunch.com/2016/09/30/aura-rethinks-the-digital-picture-frame-with-smarter-software-sensors-gesture-control/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "c2x6QgAmyU7bx123YUYxRiKj17FlzXgNyMug7ht7PffoEgGXZofBLp11694xCaJ123Zh9APteI5OsES2MDFfnvslINVw117117",
+		"item_date": "2016-09-30 00:00:00",
+		"title": "Lock Up Your Raspberry Pi with Google Authenticator",
+		"url": "https://hackaday.com/2016/09/30/lock-up-your-raspberry-pi-with-help-from-google/",
+		"domain": "hackaday.com",
+		"image": ""
+	},
+	{
+		"curated_id": "P841Y8E116FIJVelMojLbvFqtn1KEXUlNplDCRxKHrPeffD2pApRznhiHRHTmobuOf3EQjtznplG04FKoWm123zTtw117117",
+		"item_date": "2016-09-30 00:00:00",
+		"title": "BeagleBone Black Wireless comes with WiFi but no Ethernet",
+		"url": "http://www.theverge.com/circuitbreaker/2016/9/30/13110136/beaglebone-black-wireless-wifi-bluetooth-iot",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "KoxXrz6vZZ123aBnjwKVssn4GwXSO19i6hnk7RyjHtOuMuGwwIVfgSSLyhcD37OhBXJFZ123CPId7s4cTSdS586C7A117117",
+		"item_date": "2016-09-30 09:27:58",
+		"title": "IoT is eating the world APIs and REST",
+		"url": "https://medium.com/@AlexandraBowen/iot-is-eating-the-world-apis-and-rest-9e0321bc6cbf#.jgnd62uwq",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "EVNHb1236zpNRRsUCUYsjdjmDSRK6YLv3SnDrWadxUnkIQ4TE5lvlLF0pn4Ju9WYwMV4B8qigWgbZBjQGewc9TjQ117117",
+		"item_date": "2016-09-30 00:00:00",
+		"title": "Connect realworld industrial devices to IBM Watson IoT",
+		"url": "http://blog.opto22.com/optoblog/connect-real-world-industrial-devices-to-ibm-watson-iot",
+		"domain": "blog.opto22.com",
+		"image": ""
+	},
+	{
+		"curated_id": "DNimnpr5yaURRsMEkoqHZDlsDs6F0lmSLzcZYzZgHRBeZiFumi123PySJ74DGl2fD6EP3123PLImK8p3EqJaF47htA117117",
+		"item_date": "2016-09-28 00:00:00",
+		"title": "MQTT in the Enterprise",
+		"url": "https://dzone.com/articles/mqtt-in-the-enterprise",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "nDvmPugrYYbbRQEpvuoBWXPB16wRnjjYiJFvYPxo3123dz4wmaYv2VIRZ2jh8yIBap9116ZruHBevcMGU6Z3SLWITA117117",
+		"item_date": "2016-09-28 00:00:00",
+		"title": "Bosch And SAP Agree A Strategic Internet Of Things IoT Partnership To Facilitate Data Orchestration",
+		"url": "http://blogs.forrester.com/dan_bieler/16-09-29-bosch_and_sap_agree_a_strategic_internet_of_things_iot_partnership_to_facilitate_data_orchestration",
+		"domain": "blogs.forrester.com",
+		"image": ""
+	},
+	{
+		"curated_id": "KNN123Akf123PheQHumfavF123MtaDoX9EB5xdLBqA7WD6CrL01YMBd2fWmxtZsYBjJzZBBXHmJRBxm4nQvtAQm123i4Eg117117",
+		"item_date": "2016-09-29 00:00:00",
+		"title": "HP will stop blocking its printers from using thirdparty ink",
+		"url": "http://www.theverge.com/circuitbreaker/2016/9/29/13111324/hp-piracy-drm-firmware-update",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "nU81KOmZ1GpAZwepEZPpSoqHDmsIQfEKlLfZHGyRgeND7OSIYUfILHyTxFbmX7hMw7FYdTAKBR9lFAHHIMusig117117",
+		"item_date": "2016-09-29 00:00:00",
+		"title": "HP issues nonapology for blocking thirdparty ink cartridges",
+		"url": "https://techcrunch.com/2016/09/29/hp-issues-non-apology-for-blocking-third-party-ink-cartridges/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "mzULgljoo7gcIth4GPvhkCkx00hvsreZGdbYp3BmdYorIE5CBQjv5YlV1uo2OiSj9eWgx7RDKdjjyOrr5Rx6Mw117117",
+		"item_date": "2016-09-29 00:00:00",
+		"title": "Army of webcams used in net attacks",
+		"url": "http://www.bbc.co.uk/news/technology-37504719",
+		"domain": "www.bbc.co.uk",
+		"image": ""
+	},
+	{
+		"curated_id": "ESczjwM1stc3NsLy1116MMBaxLrixJdzzBj3ZkDq3GC84anxoEVDz123FEJnLf1yQrmwte72IOXtTUyOyFduvS4zPQ117117",
+		"item_date": "2016-09-29 00:00:00",
+		"title": "HP to Stop Blocking Some ThirdParty Ink Cartridges",
+		"url": "http://www.pcmag.com/news/348316/hp-to-stop-blocking-some-third-party-ink-cartridges",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "xOEZKm6lAMOACP7hu9vwi3aMk10ZLq116ZUogbyPZoFoeDhIpgEsnT6N5oRfKKHpRrBJH1kUVLScQ5VARULD123Wfw117117",
+		"item_date": "2016-09-29 00:00:00",
+		"title": "How 15 Million Connected Cameras Were Hijacked to Make an Unprecedented Botnet",
+		"url": "http://motherboard.vice.com/read/15-million-connected-cameras-ddos-botnet-brian-krebs",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "qarIVqZNPz2xhowDJRAmwRN116T23rKzr0froiGB3J116no1VC123Ut71xKKsbQNTmPHWCisg5Zz5P1A8acpl3DPpqlA117117",
+		"item_date": "2016-09-27 00:00:00",
+		"title": "Atooma Makes The IoT Easy To Everyone",
+		"url": "http://blog.atooma.com/post/151003775637/atooma-makes-the-iot-easy-to-everyone#_=_",
+		"domain": "blog.atooma.com",
+		"image": ""
+	},
+	{
+		"curated_id": "VH5VaEzhJumvBJMAB4Q80792uYvJW3zhh8cbevk3ExxNm2wxT9mVvjlUgNef123P9vHZ116QKZMz4r0ytVP0LSIDEQ117117",
+		"item_date": "2016-09-27 00:00:00",
+		"title": "Tracking Dog Barks with the Intel Edison IoT IoTuesday",
+		"url": "https://blog.adafruit.com/2016/09/27/tracking-dog-barks-with-the-intel-edison-iot-iotuesday/",
+		"domain": "blog.adafruit.com",
+		"image": ""
+	},
+	{
+		"curated_id": "A116eqsqwzzCoTeDc2XMPrLh6hyYKzH0PY3xL8oBe116SshL116Y116PXxIpkEqBj6TDzasCbgHk9vRGglbcXSiNraixoA117117",
+		"item_date": "2016-09-27 00:00:00",
+		"title": "Samsung Teams Up With Mobile TeleSystems To Deepen Research On IoT 5G Networks",
+		"url": "http://www.crn.com/news/internet-of-things/300082233/samsung-teams-up-with-mobile-telesystems-to-deepen-research-on-iot-5g-networks.htm",
+		"domain": "www.crn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "63Xq9n48aYDOa5123reQ7C3G0DndDwIm3SEWL4erZp8KPt8Mki0jCOxVJwJ4NxoLt116GSuZ1237Es1164zysM123cdiP0CQ117117",
+		"item_date": "2016-09-28 00:00:00",
+		"title": "Progress on security for the Industrial Internet of Things",
+		"url": "http://disruptiveviews.com/security-industrial-iot/",
+		"domain": "disruptiveviews.com",
+		"image": ""
+	},
+	{
+		"curated_id": "84aUc2qBb1164hMLs3voLRK4AMTtyJQKR7nGy1Jhz6PWKCIMNWDOdQKzl7OvBc5BWMwz7RG6l7lh7F116kb8Y4w1166Q117117",
+		"item_date": "2016-09-28 00:00:00",
+		"title": "5 New Tools Partners Will See From SAPs Blockbuster 22 Billion IoT Investment",
+		"url": "http://www.crn.com/slide-shows/internet-of-things/300082247/5-new-tools-partners-will-see-from-saps-blockbuster-2-2-billion-iot-investment.htm",
+		"domain": "www.crn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "BTa5El3dUasoMC9XEqiaJScTXil5CttwvvLED116UPE0QKwoatU123O0RHCVYTN12827INl123EAS123HmIRq116Ups0Geyw117117",
+		"item_date": "2016-09-28 00:00:00",
+		"title": "SAP allots 2 billion for IoT investments buys software firm PlatOne",
+		"url": "http://www.zdnet.com/article/sap-allots-2-billion-for-iot-investments-buys-software-firm-plat-one/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "vUgIUVSgN1Hg2qosxZamxX9HBIqOvPaRiMNAYYKt0DBk1169Ou9gURJk4Nl6YvP6UAt6XYzw8n9xZVKjKZGpptzA117117",
+		"item_date": "2016-09-28 00:00:00",
+		"title": "Connecting Kinesis Analytics With AWS IoT",
+		"url": "https://dzone.com/articles/connecting-kinesis-analytics-with-aws-iot",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ObHWSXEpXF9evc1D28yyAJRCYtJnL0QAkXYcwJiOwL9qq6J2bSTTCfCNx2iWC48KxytpSm0i1UxMm2l1eeutMQ117117",
+		"item_date": "2016-09-27 00:00:00",
+		"title": "IoT is now easier with Particle and Google Cloud Platform",
+		"url": "https://cloudplatform.googleblog.com/2016/09/IoT-is-now-easier-with-Particle-and-Google-Cloud-Platform.html",
+		"domain": "cloudplatform.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "3HwbRg7kltSPAQ116OPtQFaeOCgw0t7cLc6IeXMOWFx116HF0TJ6fnu2rIb12369lgOXwbm0nQhtTDHkcNj6Xzya4iLg117117",
+		"item_date": "2016-09-26 00:00:00",
+		"title": "Smart Thermometers Can Help Track and Prevent the Zika Virus",
+		"url": "https://dzone.com/articles/smart-thermometers-can-help-track-and-prevent-the",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "8zQ6iBPNcAaEqCwfEkLzBkCbHXUMV2BhCIjjFA1Gc6TpUWnG97l1YiJ28Bt7uMTqwH1230mcb123NyA4ljene4H9Lw117117",
 		"item_date": "2016-09-24 00:00:00",
 		"title": "Spotting Hidden Asset Dependencies With the Internet of Things",

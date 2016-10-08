@@ -1,10 +1,34 @@
 [
 	{
+		"curated_id": "hWnvlx0Ldys1D3wiffKDentkSSH123BICMgdZGiWW4pMHCsVAj7ygJiog1LfspWF6iftDSFsAsGlpmWXW116N0116pKg117117",
+		"item_date": "2016-10-07 00:00:00",
+		"title": "Bruce Schneier We Need to Save the Internet From the Internet of Things",
+		"url": "http://motherboard.vice.com/read/we-need-to-save-the-internet-from-the-internet-of-things",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "t7GSdE12RdQs7AY6ueDwkyvPvf3Z1yOHIVHwLWQqkimhrd2KVq116Zk1HBjnIooenOGkOsuX5bjUpfpfHOk0ITUQ117117",
+		"item_date": "2016-10-05 00:00:00",
+		"title": "OTA Issues Checklist For Securing IoT Devices",
+		"url": "http://www.darkreading.com/operations/ota-issues-checklist-for-securing-iot-devices/d/d-id/1327099?_mc=RSS_DR_EDT",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
 		"curated_id": "GwpasgqOlnIZINrGv3USQlTpVmKXabcETTqGaBjgX7aPG1crY0MamL8C5h9e9gho5N3Pzninphk7PIApjyC4hQ117117",
 		"item_date": "2016-10-06 13:08:20",
 		"title": "Improving customer service with a reallife Traffic Light built using the Intercom API",
 		"url": "https://medium.com/intercom-developers/improving-customer-service-with-a-real-life-traffic-light-built-using-the-intercom-api-98c081332143#.qherk3tts",
 		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ITB123kWDPVg86G116HM8plMK5zNlG1mcpIlxLbLWG0iybWT0LSU7sj25Xau9hR0xDGLFTJNGju6UQexyzk243tH1w117117",
+		"item_date": "2016-10-06 00:00:00",
+		"title": "Cable and telecom are rivals again with new IoT networks",
+		"url": "http://www.pcworld.com/article/3128753/cable-and-telecom-are-rivals-again-with-new-iot-networks.html#tk.rss_all",
+		"domain": "www.pcworld.com",
 		"image": ""
 	},
 	{
@@ -48,6 +72,30 @@
 		"image": ""
 	},
 	{
+		"curated_id": "FYmRC3rxJw6Ad1168pr7LGYEO5aLDbIJHuAmRyGttDQ8ZZU0erIukqX4W123aNTXBho2fGQVj0SNrJ80123lj01gt6xA117117",
+		"item_date": "2016-10-03 00:00:00",
+		"title": "Who Makes the IoT Things Under Attack",
+		"url": "https://krebsonsecurity.com/2016/10/who-makes-the-iot-things-under-attack/",
+		"domain": "krebsonsecurity.com",
+		"image": ""
+	},
+	{
+		"curated_id": "WveYb4EiFGLllPDJHqbfMgz4KzOb20sR4Rel7F1160FQyrx4Yh7ojg8JBZNqJo7NdBmLcn3dk3npnFnIl0116bjyvw117117",
+		"item_date": "2016-10-03 00:00:00",
+		"title": "IoT botnet highlights the dangers of default passwords",
+		"url": "http://www.pcworld.com/article/3127257/security/iot-botnet-highlights-the-dangers-of-default-passwords.html",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "fnsddKEl8QfnvPmXYdLqrRCLFKi93IPgpBQFZ12RkrKNPSEB37IXfEywBOMU27JDcewGuvbbO5EKz4aAvb123DkA117117",
+		"item_date": "2016-10-03 00:00:00",
+		"title": "IBM boosts Munich Watson IoT operations hits 6000 customer mark",
+		"url": "http://www.zdnet.com/article/ibm-boosts-munich-watson-iot-operations-hits-6000-customer-mark/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
 		"curated_id": "ml5AIHj1uZJyKk0827z20nL2KHcl6bTu6lWjz0o2HNrVSshz0aBjWiNDnha6W6sbUdMAvmumSz116t6TconvFS8Q117117",
 		"item_date": "2016-10-04 00:00:00",
 		"title": "Homeland Security Warns Certain Huawei Devices Vulnerable To DDoS",
@@ -61,6 +109,22 @@
 		"title": "TIBCOs New Open Source Project Flogo Pushes IoT Integration and Connectivity to the Edge",
 		"url": "http://www.tibco.com/blog/2016/10/04/tibcos-new-open-source-project-flogo-pushes-iot-integration-and-connectivity-to-the-edge/",
 		"domain": "www.tibco.com",
+		"image": ""
+	},
+	{
+		"curated_id": "3ugFmGTSCRd56R1232s7YF7xHXIH8JhpR2gOl696JGcPKCGz116mgrWchwbUKZIcRsbsVuGU8sOBXflG8R0X0ckJXQ117117",
+		"item_date": "2016-10-03 00:00:00",
+		"title": "Tell HP Still a long way to go to make up for breaking our printers",
+		"url": "https://www.eff.org/deeplinks/2016/09/hps-run-keep-pressure",
+		"domain": "www.eff.org",
+		"image": ""
+	},
+	{
+		"curated_id": "knSIsWpLytVQExlOwePTsaxk3Bfe14KqqYuQpv2AgE1Iu0vuZ1VIzCAwSVGoLkYMMQTonVcHzSh1161160cZxqOWxA117117",
+		"item_date": "2016-10-03 00:00:00",
+		"title": "Advantech Launches WebAccess  IoT Solution Alliance Program",
+		"url": "http://www.remotemagazine.com/main/news/advantech-launches-webaccess-iot-solution-alliance-program/",
+		"domain": "www.remotemagazine.com",
 		"image": ""
 	},
 	{

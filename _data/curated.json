@@ -1,5 +1,45 @@
 [
 	{
+		"curated_id": "gZdFsjCQ1FvhWU116v2xAP2iux09NdXw7dW8IDu12304aX1bJXdFKTvnoMsAtkeir8w2qGhvTYyFCiulP85oe5xfUw117117",
+		"item_date": "2016-10-14 00:00:00",
+		"title": "Hacksterio Dash Replenishment Service DRS Contest",
+		"url": "https://developer.amazon.com/appsandservices/community/post/Tx291I54M12UY64/Hackster-io-Dash-Replenishment-Service-DRS-Contest",
+		"domain": "developer.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "5Ng4116N8U0cu7JvIuiwVtR123UkhgMWcGCi39NylSK75c116phj5116I8wwLht58KstTtGnOCV01bVINQUQg5H64B3Vmw117117",
+		"item_date": "2016-10-14 00:00:00",
+		"title": "Attackers Taking Advantage of the Internet of Unpatchable Things",
+		"url": "http://www.itsecurityguru.org/2016/10/14/attackers-taking-advantage-of-the-internet-of-unpatchable-things/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "np21GzYY1231tj6eCT4pvFP123116K0qjN7EyUClVG2anSVSdbnkB8luERFuOOVht6BuITdKxKnJSoWerqThKvTQRrdQ117117",
+		"item_date": "2016-10-13 15:35:33",
+		"title": "12yearold SSH vulnerability in IoT devices being abused",
+		"url": "http://www.itproportal.com/news/12-year-old-ssh-vulnerability-in-iot-devices-being-abused/",
+		"domain": "www.itproportal.com",
+		"image": ""
+	},
+	{
+		"curated_id": "v4DKsA2kIYIMh1MYVIHhiB5j7cozsenR1163vJQYiWAqYXZGY116H19rOwydsX8TPlWP6QJT6WjlZ8hT6ZAI2SnvRQ117117",
+		"item_date": "2016-10-13 00:00:00",
+		"title": "API and the internet of things",
+		"url": "http://www.ee.co.za/article/api-internet-things.html",
+		"domain": "www.ee.co.za",
+		"image": ""
+	},
+	{
+		"curated_id": "vGmrAqdTFxfhfeI8gZP7N6MO4f2onKFgfQnAiXRGhaxWMxfmd5ifH8M4O6hAgipFOX116Bo4VTMfjJ42et2Xk116WQ117117",
+		"item_date": "2016-10-14 00:00:00",
+		"title": "Using the Azure IoT SDK in Android",
+		"url": "https://dzone.com/articles/using-azure-iot-sdk-in-android?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "OOJ75tgNYuXYTVl123NqOEsSG11oOQRa7x3D9116H116wsRjv8HWneGMka1jE4xlGB123qOJ68SIn0husPyhYtJicgpQQg117117",
 		"item_date": "2016-10-07 00:00:00",
 		"title": "IoT Platform Design Doc Virtual Devices",

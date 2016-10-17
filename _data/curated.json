@@ -1,5 +1,53 @@
 [
 	{
+		"curated_id": "hffuFwih12354LY5aOgqJofDwt116NlRXxihBkHKTzZ1116QMU2vaKHNCjCJjhxV1P5nYNfa2123jnB22W8CCfNdXvHY116A117117",
+		"item_date": "2016-10-10 05:59:00",
+		"title": "Tweet Europe to push new security regulations amid IoT mess httpstco0ZtGpQsek6",
+		"url": "https://krebsonsecurity.com/2016/10/europe-to-push-new-security-rules-amid-iot-mess/",
+		"domain": "krebsonsecurity.com",
+		"image": ""
+	},
+	{
+		"curated_id": "n123n1NveXvvZWjGd0SX98w6hJETnVjPrbssaMELpOd123cqNfsFfgoaZX6hDSKrN6vxsqbwVJxLf7feUQBDa123MjIw117117",
+		"item_date": "2016-10-11 06:05:09",
+		"title": "Say Cheese  a snapshot of the massive DDoS attacks coming from IoT cameras",
+		"url": "https://blog.cloudflare.com/say-cheese-a-snapshot-of-the-massive-ddos-attacks-coming-from-iot-cameras/",
+		"domain": "blog.cloudflare.com",
+		"image": ""
+	},
+	{
+		"curated_id": "grnkBg2HMsCQqmY7VSkMUzLk1fgRzanZM1G6H6Mwl58Zj1U4RMmg5LiH1f8sxPAGXqkg3k116U1rob5fuBwMTtOA117117",
+		"item_date": "2016-10-10 00:00:00",
+		"title": "OCF and AllSeen Alliance Merge to Support One IoT Standard",
+		"url": "https://www.infoq.com/news/2016/10/ocf-allseen",
+		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
+		"curated_id": "RTArHg8klVVI9123R5K58QQAex2XY3ad1231sQOn2Hbk5wcu7hf7e123c1168EORf0uKu6ok9J2vcTvi6123dcjcb3sR8OJw117117",
+		"item_date": "2016-10-10 00:00:00",
+		"title": "Should the Government Be More Involved in IoT Security",
+		"url": "https://continuum.cisco.com/2016/10/10/should-the-government-get-involved-in-iot-security/",
+		"domain": "continuum.cisco.com",
+		"image": ""
+	},
+	{
+		"curated_id": "1235vOPk9LO6ojAlRC4wNYdYjq123wRI3OFl4r132123OU3UbmNNJiMkYofHbcmJSGg116RL0wFwNgnfvb116VTLvtssafng117117",
+		"item_date": "2016-10-12 00:00:00",
+		"title": "How the Internet of Things is revolutionizing manufacturing",
+		"url": "http://www.businessinsider.com/internet-of-things-in-manufacturing-2016-10",
+		"domain": "www.businessinsider.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ro8nCWHvuKGk0djEpGlg7My4CG006EvkXyr1RZULdCHuHkZBGwOlSYoJ9aKthwM8hf5zlRvRQOcwbOrI0TchIw117117",
+		"item_date": "2016-10-13 00:00:00",
+		"title": "IoT Default Passwords Just Dont Do It",
+		"url": "http://www.darkreading.com/attacks-breaches/iot-default-passwords-just-dont-do-it-/a/d-id/1327150",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
 		"curated_id": "gZdFsjCQ1FvhWU116v2xAP2iux09NdXw7dW8IDu12304aX1bJXdFKTvnoMsAtkeir8w2qGhvTYyFCiulP85oe5xfUw117117",
 		"item_date": "2016-10-14 00:00:00",
 		"title": "Hacksterio Dash Replenishment Service DRS Contest",
@@ -37,6 +85,94 @@
 		"title": "Using the Azure IoT SDK in Android",
 		"url": "https://dzone.com/articles/using-azure-iot-sdk-in-android?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
 		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "axzAWxWbsikSQ6XHrM4Opa0cybpq3fVtBbdO123MaJT6cmwwTtIdSOomoGaZRCvEc2cvQXM6TiS7MFQcJMeZ8Zxw117117",
+		"item_date": "2016-10-13 00:00:00",
+		"title": "Keep IoT AOK  Hackers Capitalise on Software Vulnerabilities",
+		"url": "http://www.itsecurityguru.org/2016/10/13/keep-iot-a-ok-hackers-capitalise-on-software-vulnerabilities/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "yexpHQXHdHPHJGiQMuHdKRVsnkls93mD9TxcMR4P5edobvF4O3qU5rwyLlwKQZGKvKw0x2116ZPxhBB4aAcKL35Q117117",
+		"item_date": "2016-10-13 00:00:00",
+		"title": "IoT Devices as Proxies for Cybercrime",
+		"url": "https://krebsonsecurity.com/2016/10/iot-devices-as-proxies-for-cybercrime/",
+		"domain": "krebsonsecurity.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Dhg2k1C9OW2jAh8Ky8OreE6KJyxHLy4JJip5BaxCFrV8Fx116PFYr1LcQmtGA7QrR123Bna6g533e27cXEzBU94HJg117117",
+		"item_date": "2016-10-12 00:00:00",
+		"title": "KMC Controls Calls On IT Providers To Become A New Channel For Its Internet Of Things Platform",
+		"url": "http://www.crn.com/slide-shows/internet-of-things/300082396/kmc-controls-calls-on-it-providers-to-become-a-new-channel-for-its-internet-of-things-platform.htm",
+		"domain": "www.crn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "116123CY116O116UCdU9Z5748f116dMukuYYbtH116U5MsyWoiOQotKdYszyE123z123WCuhqsRD06tpH5xjAG1DpGpAGg4f2uF8AQ117117",
+		"item_date": "2016-10-12 00:00:00",
+		"title": "English man spends 11 hours trying to make cup of tea with WiFi kettle",
+		"url": "http://boingboing.net/2016/10/12/english-man-spends-11-hours-tr.html",
+		"domain": "boingboing.net",
+		"image": ""
+	},
+	{
+		"curated_id": "sOAfy5sJTHbuvQUkJxDslSr8hn123sWVPFIxsCMt1C4FBnIoHBCTZQfl6xXA9usUbydl116DxBZITVSpeGnV6dSDug117117",
+		"item_date": "2016-10-11 00:00:00",
+		"title": "OMG were done for as the IoT becomes attack vector of choice",
+		"url": "https://disruptiveviews.com/iot-attack-vector/",
+		"domain": "disruptiveviews.com",
+		"image": ""
+	},
+	{
+		"curated_id": "116um7vk123eJvibgfTQKwPFHTtNMsGW5sz9mnkGeyk2kXfJu29RkVcrrFO3REZuOCoaoz15APTYuSXLTmVYr4Qd1g117117",
+		"item_date": "2016-10-11 00:00:00",
+		"title": "Welcome to the Internet of Medical Things",
+		"url": "https://dzone.com/articles/internet-of-medical-things",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "PDIUFCMSsBt9mOKkHiBp8neQ8zSAYJErKKmjQqg9S6YuX6Mauh1xhvHtBfzevsvdC9wNYxVrRgLbW3LoT3CXZQ117117",
+		"item_date": "2016-10-12 00:00:00",
+		"title": "Attackers Exploit Weak IoT Security",
+		"url": "http://www.darkreading.com/threat-intelligence/attackers-exploit-weak-iot-security/d/d-id/1327159",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "v123muj19AzlcCF7CtwiIjvz116fn4tbnNGuVXxaEIqV0pT615MSWdG7BJBDY8PC3RoIhe1r2SacVhTvatI9trlKOQ117117",
+		"item_date": "2016-10-11 00:00:00",
+		"title": "Internet of Things Malware Has Apparently Reached Almost All Countries on Earth",
+		"url": "http://motherboard.vice.com/read/internet-of-things-mirai-malware-reached-almost-all-countries-on-earth",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "faSOk1168g5k123dHXXDCg9busgt7liIHEV62JNESgHdAdJ8ziJtzy33QLmiESYMdWMnxz9tJeK21Uquwe4yEQj86Q117117",
+		"item_date": "2016-10-11 00:00:00",
+		"title": "The clumsy amateurish IoT botnet has now infected devices in virtually all of the worlds countries",
+		"url": "http://boingboing.net/2016/10/11/the-clumsy-amateurish-iot-bot.html",
+		"domain": "boingboing.net",
+		"image": ""
+	},
+	{
+		"curated_id": "HLYVpHMwn8dhW6FSVZWhgKynCwk2sDu0k8ysM4xddC5iqTS03bv7J0VFhVWnbZQRbD3cTkZJchJUOp6yW123zMRQ117117",
+		"item_date": "2016-10-11 00:00:00",
+		"title": "Make It Magic  User Experience and the Internet of Things",
+		"url": "http://blog.qt.io/blog/2016/10/11/make-it-magic-user-experience-and-the-internet-of-things/",
+		"domain": "blog.qt.io",
+		"image": ""
+	},
+	{
+		"curated_id": "LM36AClLUUh116umQjtXZE7123MQpEXt0NoYqnrz9yuyarMGsYx7szak3zg123zJJSvrZJezcd63GkWSwDqSM4tWZPYw117117",
+		"item_date": "2016-10-11 00:00:00",
+		"title": "BRIEFPrevas participates in research project within IoT security",
+		"url": "http://www.reuters.com/article/idUSFWN1CH0AV",
+		"domain": "www.reuters.com",
 		"image": ""
 	},
 	{

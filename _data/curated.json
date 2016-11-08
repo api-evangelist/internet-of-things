@@ -1,5 +1,101 @@
 [
 	{
+		"curated_id": "YuqqtBw6evw3iMxI8B1160FDGIVR5mjp116S8duJDTYm1H1169MGxmTM8b8K8ci2FWlcnrEtJfTy9u6OBTSqivbX8xqw117117",
+		"item_date": "2016-10-31 00:00:00",
+		"title": "Internet of Things Attacks are More than a Nuisance",
+		"url": "https://community.infoblox.com/t5/Company-Blog/Internet-of-Things-Attacks-are-More-than-a-Nuisance/ba-p/8135",
+		"domain": "community.infoblox.com",
+		"image": ""
+	},
+	{
+		"curated_id": "N6pTymztyMey9nOJeC5Q116fzwVCJgLej9f7yXpXCQGt8JHpHOYmovy9BhOukKPToAjZLK9TliWWNmYky4N6jaIQ117117",
+		"item_date": "2016-11-01 00:00:00",
+		"title": "Propane tank monitoring radio gets LP Gas Growth Summit launch",
+		"url": "http://www.lpgasmagazine.com/propane-tank-monitoring-radio-gets-lp-gas-growth-summit-launch/",
+		"domain": "www.lpgasmagazine.com",
+		"image": ""
+	},
+	{
+		"curated_id": "1uWGJpRUbSvpHzonxtiCWmzR5UgLUB1ifT068is123gcgS7Fr85123rYxzc36om3nQYj0o9AWEwxcJzN7yBOQxi76Q117117",
+		"item_date": "2016-11-02 00:00:00",
+		"title": "Why Light Bulbs May Be the Next Hacker Target",
+		"url": "http://www.nytimes.com/2016/11/03/technology/why-light-bulbs-may-be-the-next-hacker-target.html",
+		"domain": "www.nytimes.com",
+		"image": ""
+	},
+	{
+		"curated_id": "VdLdwTjoucr5GqWk8ft9NOlijk0yUqoia5ZSohGusVtk75boI9Pu3ETcKCboAWBqK1BhMEvRYrfloUCkO49DCQ117117",
+		"item_date": "2016-11-02 00:00:00",
+		"title": "When It Comes to IoT Security for Remote Equipment Think About All the Moving Parts",
+		"url": "http://www.remotemagazine.com/main/articles/when-it-comes-to-iot-security-for-remote-equipment-think-about-all-the-moving-parts/",
+		"domain": "www.remotemagazine.com",
+		"image": ""
+	},
+	{
+		"curated_id": "LGUmKIaC3Iq116KMZ2ErHZXRLpg1AoUAcJLKdJGPGpWoaMXjPiIUw4HExCcfHhWF4MRRqUl7LvttIk1232xw9aA7ig117117",
+		"item_date": "2016-11-03 00:00:00",
+		"title": "The Internet of Things Got Hacked",
+		"url": "http://blog.opto22.com/optoblog/the-internet-of-things-got-hacked",
+		"domain": "blog.opto22.com",
+		"image": ""
+	},
+	{
+		"curated_id": "pEOmrTWuVDyQKscwjm8bJvHbEOM3zr1fVxSj1233lSWAoLKQHVudADSMVqmeL0OA69n2daM38tL0d15n6OuUoECg117117",
+		"item_date": "2016-11-03 00:00:00",
+		"title": "IoT Analytics over time with Keen and Scriptr",
+		"url": "https://keen.io/blog/152697359966/iot-analytics-over-time-with-keen-and-scriptr",
+		"domain": "keen.io",
+		"image": ""
+	},
+	{
+		"curated_id": "SxgxCsLx03Qg00PNdSOveoZ9mPlx123HXNe5M2mjkQQGtUVJfvJ79gjUSTYWFk5pGNwQWTtlKgsde123l123OOb1uQhQ117117",
+		"item_date": "2016-11-05 00:00:00",
+		"title": "Google discloses tech specs and developer API for Glass",
+		"url": "http://www.huntnews.in/p/detail/1095537550985527",
+		"domain": "www.huntnews.in",
+		"image": ""
+	},
+	{
+		"curated_id": "Hy4ajfnVUdCDX3qIJpfOiXZ2FA123wRu7u3dAap41oLySYUS8gBuc9LbGKDstL4yRbHQbaSdsYxDugjEmO9116rEJA117117",
+		"item_date": "2016-11-03 00:00:00",
+		"title": "Bringing Eyes to the Internet of Things",
+		"url": "http://spectrum.ieee.org/view-from-the-valley/computing/embedded-systems/bringing-eyes-to-the-internet-of-things",
+		"domain": "spectrum.ieee.org",
+		"image": ""
+	},
+	{
+		"curated_id": "BfWcjoqDLlRVXauZsKSXIMGLwb0yuPX2123hOcq9nqWhbN7vaAGimh1JFhtbiRmIvc123OokGl7LjEAdqUPZihX1rw117117",
+		"item_date": "2016-11-05 00:00:00",
+		"title": "How to facilitate the path to brownfield IoT development",
+		"url": "https://techcrunch.com/2016/11/05/how-to-facilitate-the-path-to-brownfield-iot-development/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "CeGdeQOb8NluwkWCf0tSsMS1UkWnMtzXGrYCm7gBWWzcDNuk73123MBRKmmSSWZrT7RPCpnpYBPVo123OSBiEBKLQA117117",
+		"item_date": "2016-11-05 00:00:00",
+		"title": "MATLAB Toolboxes are Now Available on ThingSpeak for IoT Analytics",
+		"url": "http://community.thingspeak.com/2016/11/matlab-toolboxes-on-thingspeak/",
+		"domain": "community.thingspeak.com",
+		"image": ""
+	},
+	{
+		"curated_id": "fIaWZOTkwJRDoyaLlw0SPVhzTJrfzskJnO146116A9GpMF6LnzwEsI80116mP4onIcg00Cl4crJWm1Bmh3dtpvRzJg117117",
+		"item_date": "2016-11-02 09:40:19",
+		"title": "How Hackers Could Steal Your Cellphone Pictures From Your IoT CrockPot",
+		"url": "http://motherboard.vice.com/read/how-hackers-could-steal-your-cellphone-pictures-from-your-iot-crock-pot",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "pamB0UBdVZKseU62a116j0IwthDaB2LzJkUD3rk116ImYXCxlQQzpzhC2sb6uJUNaNPSqNZ9L2OwqNdbSfwXiNuZtw117117",
+		"item_date": "2016-10-31 00:00:00",
+		"title": "How to Design a Device UI with Garmin Connect IQ",
+		"url": "http://www.programmableweb.com/news/how-to-design-device-ui-garmin-connect-iq/sponsored-content/2016/10/31",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
 		"curated_id": "p7aZsYfLQuICt2w0o1xN9UKWonscfle2MwOA5mAtVfFsp5krwl9116IazvDSMnuYkPdfOLKU8wkOHr5yiG06ovxQ117117",
 		"item_date": "2016-10-21 00:00:00",
 		"title": "4 Ways Solution Providers Can Find Profit Opportunity In The Internet Of Things",

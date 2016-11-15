@@ -1,10 +1,58 @@
 [
 	{
+		"curated_id": "vPTdTLHmr4W68nL6CW99BbDOXN5WBMATHZ7EyvbL3xfQiB9kxmdfNJnWRniBJ5suIKnJqJewsOHDMUtbxZCKbA117117",
+		"item_date": "2016-11-08 00:00:00",
+		"title": "Streamlining IoT designs with turnkey development platform",
+		"url": "http://wireless.electronicspecifier.com/iot-1/streamlining-iot-designs-with-turnkey-development-platform",
+		"domain": "wireless.electronicspecifier.com",
+		"image": ""
+	},
+	{
 		"curated_id": "e1TOOGhV7EkUI5ylIPxHgp09bENawR5R9KSp7eCAnIZIPtt123abHIog8GNwfAe9VrrJUaSI2SNMIsc8KeVUsV4A117117",
 		"item_date": "2016-11-11 14:54:34",
 		"title": "Forwarding MQTT messages to APIs with or without Zapier",
 		"url": "https://medium.com/@FokkeZB/forwarding-mqtt-messages-to-apis-with-or-without-zapier-34288d23381e#.j7db2ppu7",
 		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "cCM68xpaSQ2vTMKew4zP3EHIaRob6sPTY5dwxj07JTAgKx1HQg2dxZ0411bAPi6gW116WM7HkoMavLTc1B9LzbhA117117",
+		"item_date": "2016-11-10 00:00:00",
+		"title": "SelfPropagating Smart Light Bulb Worm",
+		"url": "https://www.schneier.com/blog/archives/2016/11/self-propagatin.html",
+		"domain": "www.schneier.com",
+		"image": ""
+	},
+	{
+		"curated_id": "BJrbU2UgrHnUjWA2qCpebUFI32116zYwW76sOc123fwMj1234QqrZFqaBA116yRLvYkvtvxeHUXsxV2tunYe8X9Hug116VOQ117117",
+		"item_date": "2016-11-09 00:00:00",
+		"title": "A lightbulb worm could take over every smart light in a city in minutes",
+		"url": "http://boingboing.net/2016/11/09/a-lightbulb-worm-could-take-ov.html",
+		"domain": "boingboing.net",
+		"image": ""
+	},
+	{
+		"curated_id": "5ani7f02z116iemb9s116LOcSVMICfHU116j3FqJmQtFr7m7YvSdRmc123F1NnS4eUB0JAVrY1AiUVyn5tyOBX4WFHT5Og117117",
+		"item_date": "2016-11-09 00:00:00",
+		"title": "Your Network IoT Cloud Computing And The Future",
+		"url": "http://dyn.com/blog/your-network-iot-cloud-computing-and-the-future/",
+		"domain": "dyn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "zhACwkPF7ALn116FhlSImKB4fz3CStSeA1xDDvYa5cmbOvnh6F0ZR1g123kgoULOX123DHpk2dIWPadJyTpSsO1165gEcg117117",
+		"item_date": "2016-11-08 00:00:00",
+		"title": "At last security for the IIoT is high on the agenda  for most",
+		"url": "https://disruptiveviews.com/security-iiot-high-agenda/",
+		"domain": "disruptiveviews.com",
+		"image": ""
+	},
+	{
+		"curated_id": "9tptaV01EPaKIVhn4116MGXt123zPxHemMeRTn1165OQbN8coVmd2I96yJ6hbuRCGfUdKlvzpUfItx3H5OxW116aacslYQ117117",
+		"item_date": "2016-11-07 00:00:00",
+		"title": "Dont be daunted by the droning on about IoT",
+		"url": "http://www.automationmag.com/technology/iot-iiot/6470-dont-be-daunted-by-the-droning-on-about-iot",
+		"domain": "www.automationmag.com",
 		"image": ""
 	},
 	{

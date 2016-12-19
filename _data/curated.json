@@ -1,5 +1,29 @@
 [
 	{
+		"curated_id": "86NT3Qn6kGqmX116mVpInor123qe5Uvvo1xJF123UYnyp4XgXz8WvnzGdZmS821DmI1vHFhgbcQ2ipELNQabmy8LTmFQ117117",
+		"item_date": "2016-12-18 00:00:00",
+		"title": "Smart Projector With Builtin Raspberry Pi Zero",
+		"url": "http://hackaday.com/2016/12/18/smart-projector-with-built-in-raspberry-pi-zero/",
+		"domain": "hackaday.com",
+		"image": ""
+	},
+	{
+		"curated_id": "116Mj1QPQJ3oz6uuBnqriHmIYANqt4y94eT6Lo8Lr5q4znLvqz1239x38a116goPx2JjcHs123mlefzbCwKButUrKQQJyw117117",
+		"item_date": "2016-12-16 00:00:00",
+		"title": "Gating the IoT",
+		"url": "https://dzone.com/articles/gating-the-iot?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "r8O116dAJMmPqJxbzMspNfs8sfXlMp7UWQ123c0ejW72324Lj116ZLU3kHO8d74drTwibu9VqgtAiIBeTpTMes123eX6qw117117",
+		"item_date": "2016-12-16 00:00:00",
+		"title": "How to Remotely Monitor Your Pi Processes from Initial State piday raspberrypi RaspberryPi",
+		"url": "https://blog.adafruit.com/2016/12/16/how-to-remotely-monitor-your-pi-processes-from-initial-state-piday-raspberrypi-raspberry_pi/",
+		"domain": "blog.adafruit.com",
+		"image": ""
+	},
+	{
 		"curated_id": "vPTdTLHmr4W68nL6CW99BbDOXN5WBMATHZ7EyvbL3xfQiB9kxmdfNJnWRniBJ5suIKnJqJewsOHDMUtbxZCKbA117117",
 		"item_date": "2016-11-08 00:00:00",
 		"title": "Streamlining IoT designs with turnkey development platform",

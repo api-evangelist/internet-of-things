@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "X976vZz123MvZc2JWj5qpJ2Z9dq123EmGj8KY2YVyfnYUgD6wN6KY2MMfIvfxfXFMT47Kjq38IW8KHRQMrC89Sc6xg117117",
+		"item_date": "2016-12-19 00:00:00",
+		"title": "Announcing Ubuntu and Wind River Pulsar support with Intel IoT Developer Kit 50",
+		"url": "https://www.codeproject.com/Articles/1161755/Announcing-Ubuntu-and-Wind-River-Pulsar-support",
+		"domain": "www.codeproject.com",
+		"image": ""
+	},
+	{
 		"curated_id": "86NT3Qn6kGqmX116mVpInor123qe5Uvvo1xJF123UYnyp4XgXz8WvnzGdZmS821DmI1vHFhgbcQ2ipELNQabmy8LTmFQ117117",
 		"item_date": "2016-12-18 00:00:00",
 		"title": "Smart Projector With Builtin Raspberry Pi Zero",
@@ -21,6 +29,30 @@
 		"title": "How to Remotely Monitor Your Pi Processes from Initial State piday raspberrypi RaspberryPi",
 		"url": "https://blog.adafruit.com/2016/12/16/how-to-remotely-monitor-your-pi-processes-from-initial-state-piday-raspberrypi-raspberry_pi/",
 		"domain": "blog.adafruit.com",
+		"image": ""
+	},
+	{
+		"curated_id": "vU6yMG1VP9gXYQHRufybWz4ziJVAtT4xLYhEuXo3iIwcPG3Rb67D7k7Awe0Dn4VGvbFGO0KOrQKJl8xutHri2w117117",
+		"item_date": "2016-12-15 00:00:00",
+		"title": "How to Make a Raspberry Pi Motion Tracking Airsoft  Nerf Turret RaspberryPi piday raspberrypi",
+		"url": "https://blog.adafruit.com/2016/12/16/how-to-make-a-raspberry-pi-motion-tracking-airsoft-nerf-turret-raspberry_pi-piday-raspberrypi/",
+		"domain": "blog.adafruit.com",
+		"image": ""
+	},
+	{
+		"curated_id": "pVPjcbpKRi6DWXoiFq8YSe7Jln4CdMrOc0ra123eqsQ7jOaO1235tCWxKuDyLj6AFhU116ULwVcmg1tb87o4qJotisfg117117",
+		"item_date": "2016-12-15 00:00:00",
+		"title": "IAB study says majority of IoT owners are okay with ads on their devices",
+		"url": "https://techcrunch.com/2016/12/15/iab-iot-study/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "bms9VNTVL5cIxrVLAsiEtlGAcC3nitol0NDLCWWEf6P19fRwB3b5ISM1skIk123AdW4zR6ywF9THK1XCmwh6MDng117117",
+		"item_date": "2016-12-15 00:00:00",
+		"title": "Google039s 039Android Things039 Platform Promises An Easier Path to IoT",
+		"url": "http://www.programmableweb.com/news/googles-android-things-platform-promises-easier-path-to-iot/2016/12/15",
+		"domain": "www.programmableweb.com",
 		"image": ""
 	},
 	{

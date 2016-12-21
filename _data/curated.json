@@ -16,6 +16,14 @@
 		"image": ""
 	},
 	{
+		"curated_id": "2zQoqN4dyN53KrAXXegfUamSUqP0e116udpcedeWBmhm8kvULSKf4e9NpMyquoQOhu4qni4vC3I8EHALlwJ72qgA117117",
+		"item_date": "2016-12-13 00:00:00",
+		"title": "FACT SHEET Release of the Joint United StatesCanada Electric Grid Security and Resilience Strategy",
+		"url": "https://ics-cert.us-cert.gov/FACT-SHEET-Release-Joint-United-States-Canada-Electric-Grid-Security-and-Resilience-Strategy",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
 		"curated_id": "116Mj1QPQJ3oz6uuBnqriHmIYANqt4y94eT6Lo8Lr5q4znLvqz1239x38a116goPx2JjcHs123mlefzbCwKButUrKQQJyw117117",
 		"item_date": "2016-12-16 00:00:00",
 		"title": "Gating the IoT",
@@ -53,6 +61,30 @@
 		"title": "Google039s 039Android Things039 Platform Promises An Easier Path to IoT",
 		"url": "http://www.programmableweb.com/news/googles-android-things-platform-promises-easier-path-to-iot/2016/12/15",
 		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "SvGinQS123CMGhjJIzsx81AGL116O4ymkq8wBkdkewmPDcb5mgf123YOG9El70A4UpEe1FiIF1AAGTFfxrzmZ8ZLG8Pg117117",
+		"item_date": "2016-12-13 00:00:00",
+		"title": "Is Government Regulation the Answer to IoT Security",
+		"url": "https://continuum.cisco.com/2016/12/13/is-government-regulation-the-answer-to-iot-security/",
+		"domain": "continuum.cisco.com",
+		"image": ""
+	},
+	{
+		"curated_id": "116TNSGSDOARRWMVU9laGczRW8rDzMY3DXGy1168mUD3HcQk4IQDwob1236Q801165MgQU6rU6sGKNnH3V29SlOCHWCJgw117117",
+		"item_date": "2016-12-14 00:00:00",
+		"title": "Wannabe Hackers Are Willing to Pay To Learn How To Use the Mirai Botnet",
+		"url": "http://www.itsecurityguru.org/2016/12/14/wannabe-hackers-willing-pay-learn-use-mirai-botnet/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "RyCdN8MjBqbFcG17Bzjuy0z9aBkSRZ123lZTYECgCXftaNrx9ikAu0KMwjtdsuUgzDXCqKA9S6XkNzZ6mMUM1Lsg117117",
+		"item_date": "2016-12-13 00:00:00",
+		"title": "Samsung SmartThings Water Leak Sensor review A cheap detector that leans on its ecosystem",
+		"url": "http://www.pcworld.com/article/3131105/sensors/samsung-smartthings-water-leak-sensor-review-a-cheap-detector-that-leans-on-its-ecosystem.html#tk.rss_all",
+		"domain": "www.pcworld.com",
 		"image": ""
 	},
 	{

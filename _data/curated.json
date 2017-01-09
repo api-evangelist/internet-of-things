@@ -1,10 +1,82 @@
 [
 	{
+		"curated_id": "IUPMq70UD7B59bEMbOgbEb9N116m1161123BBCmZc7d116Vshsf6116TvJMXhqY720Y6kOgnCuAxSD6Au5f116Qe4nAYtShu3Q117117",
+		"item_date": "2017-01-06 00:00:00",
+		"title": "FTC Charges DLink With Unsecure Routers And IP Cameras",
+		"url": "http://www.darkreading.com/iot/ftc-charges-d-link-with-unsecure-routers-and-ip-cameras-/d/d-id/1327844",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "tsolfE1kqRy116EODLpbJ7yiBPRv2X0MDGr123x5uRyeycAnmXg3k4CiFriq5xucDujWwZ40P9dLGa8wfs7yAa1ykA117117",
+		"item_date": "2017-01-06 00:00:00",
+		"title": "DLink Calls The FTCs Router And IP Camera Security Allegations Baseless",
+		"url": "http://www.crn.com/news/networking/300083333/d-link-calls-the-ftcs-router-and-ip-camera-security-allegations-baseless.htm",
+		"domain": "www.crn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "vWOsA123EHlDonhK123nDMAL9NYm3ieAh8VeeG9vL1bKshe7GQA123QDETKSPImsMEhnY1QljOPzaIqK8EGbevsZeB2g117117",
+		"item_date": "2017-01-06 00:00:00",
+		"title": "FTC Sues DLink Over Insecure Routers Cameras",
+		"url": "http://www.pcmag.com/news/350850/ftc-sues-d-link-over-insecure-routers-cameras?source=SectionArticles",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
 		"curated_id": "vlu2J05rLWXkGcs9vEDEUZ9116i4OJXjIjIf75UA5tmShR123pDPMXGzjP123KoM2123vJgj6bDpDyB4ugNxLjLUvG97sg117117",
 		"item_date": "2017-01-06 00:00:00",
 		"title": "Choosing Your IIoT Approach",
 		"url": "https://dzone.com/articles/choosing-your-iiot-approach",
 		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "wDdlNIzVzIdwdSoH99uK3SWDWovx7hsax116d7xiNqSN7ISQv1OrI5G4Xy3HQCPlBnd116P116FB123yBfhFS116M9oQFfXQ117117",
+		"item_date": "2017-01-04 00:00:00",
+		"title": "The FTCs Internet of Things IoT Challenge",
+		"url": "https://krebsonsecurity.com/2017/01/the-ftcs-internet-of-things-iot-challenge/",
+		"domain": "krebsonsecurity.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YbenQ1164NF2BYzGKpunCtnIbnGLIZWGXHpQh07116qplkgm8f6Kz8iLSG116DMz83116K3XPbC1NIv5cvievJyGtHE2Zw117117",
+		"item_date": "2017-01-04 00:00:00",
+		"title": "FTC launches 25K internetofthings security challenge",
+		"url": "http://thehill.com/policy/cybersecurity/312659-ftc-launches-25-thousand-internet-of-things-security-challengen",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "d3vnw36Xp2knxvipvyBF2uEHTbwE116y4zDSsQn5HFfKy3O5jzHX1tF9mHTiGQyIedMOwVj1mIZtWcwI4VTDEABg117117",
+		"item_date": "2017-01-05 00:00:00",
+		"title": "The InSecurity of IoT",
+		"url": "http://www.forumsys.com/en/featured/the-insecurity-of-iot/",
+		"domain": "www.forumsys.com",
+		"image": ""
+	},
+	{
+		"curated_id": "XgLcLaVOUdQ6ELPZdHW50WUrlHEGjNm8116Q0SoMULtrI7yNADScTkZCTw7eoKzY3BpOo09SWbYpzxCUQAjFHYeQ117117",
+		"item_date": "2017-01-05 00:00:00",
+		"title": "Feds allege security flaws in DLink routers cameras",
+		"url": "http://thehill.com/policy/cybersecurity/312897-ftc-files-complaint-against-d-link-routers-camerasn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "IUp1DnEp35edClTTFNssYvX123s1oXG123hBdrql9lKr7ZR4yuQFIOWEvT7SWAN2z123qOCuJ1aoIqqCsT9116vfjzMveg117117",
+		"item_date": "2017-01-05 00:00:00",
+		"title": "UPDATE 1US sues DLink alleges lax security in routers cameras",
+		"url": "http://feeds.reuters.com/~r/reuters/technologysectorNews/~3/3mEGJyFk_P8/d-link-ftc-idUSL1N1EV1VA",
+		"domain": "feeds.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "zokK9fuBuZyouQUCVih60SDuSx4kaiu9HgvPvl1166jOdYeazsgaOaNKk8qEffbowSrnlwTBqCYRI3BKUgpuCRoQ117117",
+		"item_date": "2017-01-04 00:00:00",
+		"title": "Hackers could explode horribly insecure smart meters pwn home IoT",
+		"url": "http://www.itsecurityguru.org/2017/01/04/hackers-explode-horribly-insecure-smart-meters-pwn-home-iot/",
+		"domain": "www.itsecurityguru.org",
 		"image": ""
 	},
 	{

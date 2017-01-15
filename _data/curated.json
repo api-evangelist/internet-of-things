@@ -1,5 +1,61 @@
 [
 	{
+		"curated_id": "vF8dhXkY1236baJXLvVhSs4ZcwO0MJFkmLL3FEiKg2SdkAFSLjZGQiWDRqeTAuOIfu5zZghziWJUfnJCw2bjMrwQ117117",
+		"item_date": "2017-01-12 00:00:00",
+		"title": "Introducing Zuuljs Conditional Access Manager for Your IoT",
+		"url": "https://forums.adafruit.com/viewtopic.php?f=25&t=109733",
+		"domain": "forums.adafruit.com",
+		"image": ""
+	},
+	{
+		"curated_id": "R2zWhbcSGoj8Q056geXPA116ELvOs9mJLxGTO8Bb9TENa6BdHVJmd123QP7e61234IJXcXxWJ0OS249lFrd9AQ4sxxnQ117117",
+		"item_date": "2017-01-13 00:00:00",
+		"title": "Stringify connects with IFTTT",
+		"url": "https://www.stringify.com/2017/01/13/stringify-connects-with-ifttt/",
+		"domain": "www.stringify.com",
+		"image": ""
+	},
+	{
+		"curated_id": "FlxY3tjPL8gxhwYqAD9VJoYbZJQ5d7qGman01J123CH23QEB32qVB1am3uIfwLgmOJ7wlbE7fNGdJI6GMvxKnPYg117117",
+		"item_date": "2017-01-13 09:15:28",
+		"title": "IoTify All Things LG Has Gone Overboard",
+		"url": "http://hackaday.com/2017/01/09/iotify-all-things/",
+		"domain": "hackaday.com",
+		"image": ""
+	},
+	{
+		"curated_id": "123Lf116yIXgi6Y2g6qeWtNMVDoWdNK6ynof6C1lFTnPGNp6AdVz10yKxOpn123uRUkC3ZllMmjCAfH1W58eGHzJgRAA117117",
+		"item_date": "2017-01-13 00:00:00",
+		"title": "Two new developments in Industrial IoT show continued maturation of the space",
+		"url": "http://feedproxy.google.com/~r/typepad/alleyinsider/silicon_alley_insider/~3/sor0JIVipqc/industrial-iot-announcements-show-continued-maturation-2017-1",
+		"domain": "feedproxy.google.com",
+		"image": ""
+	},
+	{
+		"curated_id": "GvWzJtza2yEsCwfUE3VDiVtYp6116ddOS69qM2b8YEZmgXwvPRPwwjR123LpVgICD8116l6FRSrP9Qfc8xd9t4KLtrrQ117117",
+		"item_date": "2017-01-12 00:00:00",
+		"title": "20 Crazy Connected IoT Products At CES 2017",
+		"url": "http://www.crn.com/slide-shows/internet-of-things/300083379/20-crazy-connected-iot-products-at-ces-2017.htm",
+		"domain": "www.crn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "yH9r8kFzVhnEm8nmfkaMQnnt8opVNkpJPa6uQ0TMsGk6TC4QzhE116vTxKFXleYNvSH4t0vN2CSSeHKr23nIc5aw117117",
+		"item_date": "2017-01-11 00:00:00",
+		"title": "Honeywell and Aereon Leverage IIoT for Oil and Gas",
+		"url": "http://www.remotemagazine.com/main/news/honeywell-and-aereon-leverage-iiot-for-oil-and-gas/",
+		"domain": "www.remotemagazine.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YSfcEF3djv3veLQgK1mSf1gg5STClGPOMyGIHOZsPnohcwX561cewr2mTgEodoJWeXOhvhjiyCs1pwmDKrBNLg117117",
+		"item_date": "2017-01-10 00:00:00",
+		"title": "FTC Offers 25K for IoT Security Fix",
+		"url": "http://www.pcmag.com/news/350891/ftc-offers-25k-for-iot-security-fix",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
 		"curated_id": "IUPMq70UD7B59bEMbOgbEb9N116m1161123BBCmZc7d116Vshsf6116TvJMXhqY720Y6kOgnCuAxSD6Au5f116Qe4nAYtShu3Q117117",
 		"item_date": "2017-01-06 00:00:00",
 		"title": "FTC Charges DLink With Unsecure Routers And IP Cameras",

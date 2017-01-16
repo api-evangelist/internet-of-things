@@ -27,8 +27,8 @@
 		"curated_id": "123Lf116yIXgi6Y2g6qeWtNMVDoWdNK6ynof6C1lFTnPGNp6AdVz10yKxOpn123uRUkC3ZllMmjCAfH1W58eGHzJgRAA117117",
 		"item_date": "2017-01-13 00:00:00",
 		"title": "Two new developments in Industrial IoT show continued maturation of the space",
-		"url": "http://feedproxy.google.com/~r/typepad/alleyinsider/silicon_alley_insider/~3/sor0JIVipqc/industrial-iot-announcements-show-continued-maturation-2017-1",
-		"domain": "feedproxy.google.com",
+		"url": "http://www.businessinsider.com/industrial-iot-announcements-show-continued-maturation-2017-1",
+		"domain": "www.businessinsider.com",
 		"image": ""
 	},
 	{
@@ -45,6 +45,14 @@
 		"title": "Honeywell and Aereon Leverage IIoT for Oil and Gas",
 		"url": "http://www.remotemagazine.com/main/news/honeywell-and-aereon-leverage-iiot-for-oil-and-gas/",
 		"domain": "www.remotemagazine.com",
+		"image": ""
+	},
+	{
+		"curated_id": "i5SV0G2tlaQee1gYV5igSYq9BGfA2yj6gKo7LktN123ntwdcYS49xi0SH5mBw4PY7T7dyM82iMpu5NHscM1mmp116w117117",
+		"item_date": "2017-01-10 00:00:00",
+		"title": "Temperature Control With Ubidots MQTT and NodeMcu",
+		"url": "https://dzone.com/articles/temperature-control-with-ubidots-mqtt-and-nodemcu",
+		"domain": "dzone.com",
 		"image": ""
 	},
 	{

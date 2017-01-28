@@ -1,5 +1,29 @@
 [
 	{
+		"curated_id": "RR123IYhX6OnINOHQ15n50DdiifWrzl2qynLZxpADEepz0zIhM94IpltrshA116npCUjsMdTwj4fjqr5qxktCBWEKA117117",
+		"item_date": "2017-01-17 00:00:00",
+		"title": "Using IoT to track your pet",
+		"url": "https://newsroom.cisco.com/feature-content",
+		"domain": "newsroom.cisco.com",
+		"image": ""
+	},
+	{
+		"curated_id": "g9RouLVfQnAYpxAoidy2UxMW7eOJPUchKOw40Dhc5Pz3Nio116wtPsVVIK0e0yu1Mebblhq116FlAg5bNSqAuaeDqQ117117",
+		"item_date": "2017-01-17 00:00:00",
+		"title": "Businesses Throughout Taiwan Can Now Deliver IoT Services with Asia Pacific Telecom and Cisco Jasper",
+		"url": "https://newsroom.cisco.com/press-release-content",
+		"domain": "newsroom.cisco.com",
+		"image": ""
+	},
+	{
+		"curated_id": "sdunZUzqOrCHXXUELdMSDC8116QMACrxmGOVToX12341QdVmVRFrQ7HJ0rod9j3PScNTP8Z123mgfzrxCk7h1236Rugmlg117117",
+		"item_date": "2017-01-18 00:00:00",
+		"title": "Partners Internet of Things Retail Solutions Will Be A Boon For The Channel",
+		"url": "http://www.crn.com/news/internet-of-things/300083457/partners-internet-of-things-retail-solutions-will-be-a-boon-for-the-channel.htm",
+		"domain": "www.crn.com",
+		"image": ""
+	},
+	{
 		"curated_id": "t52taWca9S1167aKNmFC5CIqrGGEZwB1ZJ4k1164K33c2m6PoJoK8QZFavGL6Lx3DIH2got7wgDfD2qj7rHBW221gQ117117",
 		"item_date": "2017-01-19 00:00:00",
 		"title": "Who Created the Mirai Botnet",
@@ -53,6 +77,14 @@
 		"title": "Amazons Dash button goes online",
 		"url": "http://www.reuters.com/article/us-amazon-com-products-dash-idUSKBN15426Q",
 		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "p123Xa7pU4QgJADkxX123uC5gM1160syZYF70pqyy123iQ4Hy36hEb8pbG82kf116b0123zKB9x3FPDGYyVveHnInFnL6tSSNw117117",
+		"item_date": "2017-01-16 11:34:01",
+		"title": "IoT Enabled Smart Parking Meter with PubNub and IBM Bluemix",
+		"url": "https://www.pubnub.com/blog/2016-06-01-iot-enabled-smart-parking-meter-ibm-bluemix-pubnub/",
+		"domain": "www.pubnub.com",
 		"image": ""
 	},
 	{

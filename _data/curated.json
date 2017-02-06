@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "uepYMNLkO4YYqjR116Od8w0U123c5PmHlMlD3tFuXWRln116MWfaCHX11DnDWFmbIP578TByoCuCI5osEXXAgXZ3Kl4A117117",
+		"item_date": "2017-02-03 00:00:00",
+		"title": "Popular hacking tool Metasploit security kit can now hack IoT devices",
+		"url": "http://www.computermagazine.com/technology/popular-hacking-tool-metasploit-security-kit-can-now-hack-iot-devices-and-hardware/",
+		"domain": "www.computermagazine.com",
+		"image": ""
+	},
+	{
+		"curated_id": "yWahGp0E2bHKEe6116X3KKYm555JCHM7Woh1iq6u116rGLyDJUlhk7zHaUgtywPPvVpDJw5KN4RCGOqCQ9MJ4ptohQ117117",
+		"item_date": "2017-02-03 00:00:00",
+		"title": "How Google Took on Mirai KrebsOnSecurity",
+		"url": "https://krebsonsecurity.com/2017/02/how-google-took-on-mirai-krebsonsecurity/",
+		"domain": "krebsonsecurity.com",
+		"image": ""
+	},
+	{
+		"curated_id": "qz2vzxA0LCKHmn4Xp6enAYrTL116K2Ja8QDk4IjcHaAgiU2TRFRSZd9rrlSD7Jzn4lTkoS3nt6sM116AzjcXgdWZqQ117117",
+		"item_date": "2017-02-02 00:00:00",
+		"title": "IoT Device Test Challenges",
+		"url": "http://spectrum.ieee.org/whitepaper/iot-device-test-challenges",
+		"domain": "spectrum.ieee.org",
+		"image": ""
+	},
+	{
+		"curated_id": "qv05uqWivY88FRJs7vUIDL91594JliJX2pTSNfOL9RLNXp6aqGt123Zed5XYKn9Q116nqjTro0R9EUDoO116iizXp4Qw117117",
+		"item_date": "2017-02-02 00:00:00",
+		"title": "Metasploit Can Now Be Directly Linked To Hardware For Vulnerability Testing",
+		"url": "http://www.darkreading.com/vulnerabilities---threats/metasploit-can-now-be-directly-linked-to-hardware-for-vulnerability-testing/d/d-id/1328047",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
 		"curated_id": "RR123IYhX6OnINOHQ15n50DdiifWrzl2qynLZxpADEepz0zIhM94IpltrshA116npCUjsMdTwj4fjqr5qxktCBWEKA117117",
 		"item_date": "2017-01-17 00:00:00",
 		"title": "Using IoT to track your pet",

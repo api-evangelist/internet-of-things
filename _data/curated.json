@@ -1,5 +1,77 @@
 [
 	{
+		"curated_id": "W1vrHt116orMMp2sXx31RLolKgp116gbE0iomr116F8vDnQ7gTRLIwY5116VOH0HGb5HZ1kDcwzG4tjazhLAa123rHN123iyNw117117",
+		"item_date": "2017-03-07 00:00:00",
+		"title": "An IIoT Standard To Rule Them All",
+		"url": "http://blog.opto22.com/optoblog/an-iiot-standard-to-rule-them-all",
+		"domain": "blog.opto22.com",
+		"image": ""
+	},
+	{
+		"curated_id": "eOVbDU3hGrCKaywiTAOrYzA5WkXUh3F13Rj0KW9scwZjCSQu5IwYezmdcYtMpNerseyB116zDro069tjeIhnk9WA117117",
+		"item_date": "2017-03-11 00:00:00",
+		"title": "The New Raspberry Pi Zero W Is Your Key to the Hackable Future",
+		"url": "https://www.wired.com/2017/03/new-raspberry-pi-zero-w-key-hackable-future/",
+		"domain": "www.wired.com",
+		"image": ""
+	},
+	{
+		"curated_id": "AHupvhPmtcy7d9oKdPNOj9shZUDzRZ123dT2KWO5a5twmTj7WwTbWahiXSm1F4kQAGNTixBlbVcxuHel7123kLkflA117117",
+		"item_date": "2017-03-08 00:00:00",
+		"title": "4 ways cyber attackers may be hacking your IoT devices",
+		"url": "https://thenextweb.com/tech/2017/03/09/4-ways-cyber-attackers-may-hacking-iot-devices/",
+		"domain": "thenextweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "yQRqWFL1164COflz1jBGkOv5GdyzQOsuE3WaHbH98oz9LFnwePs381u9KiRgR123SSpOZeUZMG3LMzYZrCzhJvMGAQ117117",
+		"item_date": "2017-03-10 00:00:00",
+		"title": "IoT  Liability How Organizations Can Hold Themselves Accountable",
+		"url": "http://www.darkreading.com/iot/iot-and-liability-how-organizations-can-hold-themselves-accountable-/a/d-id/1328324",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "65M8B5IgIxZG24QVUVgdMv123uXCeayulK1JkKXFxRzFEbwyfuseDMOKKQTOdm2mSxWp2123123TQk6okYTjSg5wJrmA117117",
+		"item_date": "2017-03-10 00:00:00",
+		"title": "Researcher Discovers Another Mirai Waiting to Happen",
+		"url": "https://continuum.cisco.com/2017/03/10/researcher-discovers-another-mirai-waiting-to-happen/",
+		"domain": "continuum.cisco.com",
+		"image": ""
+	},
+	{
+		"curated_id": "pEfy123a2HhAuLW4HPe9ms116X2QZZjs0REQYvyrKomVj8OnsprUIhaDoMmnaiKAbG9YzhjrRzk32IIFt123y4FiTwrg117117",
+		"item_date": "2017-03-10 00:00:00",
+		"title": "The smart button controlled by your fingerprints",
+		"url": "http://www.bbc.co.uk/news/technology-39229217",
+		"domain": "www.bbc.co.uk",
+		"image": ""
+	},
+	{
+		"curated_id": "ScdxdpT8wDrMhuSPoUG11GdQtaNs4HomkaxTTjRjKJ2BXKIFPpcq7UxYMpZtyKRmTmtzu4lVy123J7ZlWaApn116XQ117117",
+		"item_date": "2017-03-10 00:00:00",
+		"title": "UK spinout aims to connect the Internet of Things",
+		"url": "http://www.electronics-eetimes.com/news/uk-spinout-aims-connect-internet-things",
+		"domain": "www.electronics-eetimes.com",
+		"image": ""
+	},
+	{
+		"curated_id": "GQF0dohePPVvo4TF0MtSWytmI43MiW0fTf3Ng2EwbGDMJt1iot12Z9Vr4J9aqFI123oqh9toEfHYPHxTD31jNN5Q117117",
+		"item_date": "2017-03-10 00:00:00",
+		"title": "Consumer Reports Proposes Open Source Security Standard To Keep The Internet Of Things From Sucking",
+		"url": "https://www.techdirt.com/articles/20170306/06501736850/consumer-reports-proposes-open-source-security-standard-to-keep-internet-things-sucking.shtml",
+		"domain": "www.techdirt.com",
+		"image": ""
+	},
+	{
+		"curated_id": "2h6JJ6g3ykPs1nEM5JwsfrfjcQT6JJSUU1VzaJ3MkWbYUokUcKa20VSUCq1JeJS1uPDc123q5aLfbFahwjowO8ng117117",
+		"item_date": "2017-03-10 00:00:00",
+		"title": "Dahua Hikvision IoT Devices Under Siege",
+		"url": "https://krebsonsecurity.com/2017/03/dahua-hikvision-iot-devices-under-siege/",
+		"domain": "krebsonsecurity.com",
+		"image": ""
+	},
+	{
 		"curated_id": "GXcWgElXeh3riZMN2S55yWAVuwGmPtc6nLXnoSgrUBAvaHG8VPzo9suyhyTddHmqgL9qAbKCXPWOOpfAy8voNQ117117",
 		"item_date": "2017-03-09 00:00:00",
 		"title": "Humanising the Internet of Things",
@@ -35,8 +107,16 @@
 		"curated_id": "e1166aaFHLozX123ATkAFIpPTbDJa6KdwrH1vnj1MpwCKSxrtbblXu0vIGT3vM123no5lIvYtArn7yf123123qaGIaoNzLIg117117",
 		"item_date": "2017-03-08 00:00:00",
 		"title": "Cheaper Alternatives to IoT Cloud Services",
-		"url": "https://dzone.com/articles/cheaper-alternatives-to-iot-cloud-services?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"url": "https://dzone.com/articles/cheaper-alternatives-to-iot-cloud-services",
 		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "HBKnFKl123pejjZrl7Qjjje123HzChKCEsI0PiI9Dfg6LDjVQpswfSDN4z3hAZyYqCBGn0ZeLqCIwZw5GUQ31KFVyw117117",
+		"item_date": "2017-03-08 00:00:00",
+		"title": "Lawmaker Wants Hacked Toymaker To Come Clean About Data Breach",
+		"url": "https://motherboard.vice.com/en_us/article/lawmaker-wants-hacked-toymaker-to-come-clean-about-data-breach",
+		"domain": "motherboard.vice.com",
 		"image": ""
 	},
 	{
@@ -45,6 +125,22 @@
 		"title": "Connecting Everything to the Internet What Could Go Wrong",
 		"url": "http://www.pcmag.com/article/352173/connecting-everything-to-the-internet-what-could-go-wrong",
 		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "x8tceEa4JnoOP116dJZyL29vWN2Qs6MbdUggFuqwLyqRIXHMrTKfXFwWmSipTRQQMpDrL116PDydyPMU7pizuzyrTQ117117",
+		"item_date": "2017-03-06 00:00:00",
+		"title": "Additional IoT Considerations for 2017",
+		"url": "https://dzone.com/articles/additional-considerations-on-iot-in-2017",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "gqTVVk6BKXWPks1161JP123QxxSQ116y116b26XIlxXITwUIGfj1aZid0GVx5JiRClJfEq4wLqkEM123XT123WvMYHV0qdxL0g117117",
+		"item_date": "2017-03-06 00:00:00",
+		"title": "Getting the most out of the IoT",
+		"url": "http://360.here.com/2017/03/06/getting-the-most-out-of-the-iot/",
+		"domain": "360.here.com",
 		"image": ""
 	},
 	{

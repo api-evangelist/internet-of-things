@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "123uccK8AH2Yo3CQ4gwKLaFo3C3Mh143knAN9gzcYiOXeNT01Zn2kyQaYAHyVeiZMvU5hLG4dOEsLw0Lh8MgdYoA117117",
+		"item_date": "2017-04-23 00:00:00",
+		"title": "Harman Debuts VoiceControl Cognitive Rooms Powered by IBMs IoT",
+		"url": "http://mysmahome.com/news/36121/harman-debuts-voice-control-cognitive-rooms-powered-ibms-iot-service/",
+		"domain": "mysmahome.com",
+		"image": ""
+	},
+	{
+		"curated_id": "qZK9lL2qLMup27XZWMJnajVfLFvMdp40hkReXE12347xc5GtvLROs0t7YIW0WwGMxMG2oWaypyOxgUR5ERBLSu123g117117",
+		"item_date": "2017-04-21 00:00:00",
+		"title": "Lafayette taps IoT for air quality data",
+		"url": "https://gcn.com/articles/2017/04/21/smart-lafayette.aspx",
+		"domain": "gcn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Wb123U573afsFzauPUkOC0116gVqTpMyrTMXFi13123eUlMvJ3sfgVkoSIdYrPAj8LkyconLc4xQownkTY3xC2G8VFDg117117",
+		"item_date": "2017-04-21 00:00:00",
+		"title": "IoT Security is Hard Heres What You Need to Know",
+		"url": "http://hackaday.com/2017/04/21/iot-security-is-hard-heres-what-you-need-to-know/",
+		"domain": "hackaday.com",
+		"image": ""
+	},
+	{
+		"curated_id": "BIIc7ULViRQGoblT8oshqjNsJAADcSf2tGNO96nkx4cBNmUJao5krk7DMw4fkB4tZoVb4815SNKOlWgU00i22Q117117",
+		"item_date": "2017-04-21 00:00:00",
+		"title": "Can an IoT device ever be secure",
+		"url": "http://www.itsecurityguru.org/2017/04/21/can-iot-device-ever-secure/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
 		"curated_id": "l116ITI8urqUvL11HGlThaim54swcdtt97kFOHgxPx0ZVCvFZkl5PbQKvFUJijxCJzlgv9j2WKQOvC7DB116GyZObQ117117",
 		"item_date": "2017-04-15 00:00:00",
 		"title": "The Race for Sensors to Supply Big Data and Enterprise Mobility",

@@ -1,5 +1,45 @@
 [
 	{
+		"curated_id": "6zzZ1lNYmzMYa88mtmUqrQXOgHs09EbpPHnpa2Yf2SwVQhmN24x123BvJlARyRNG05oiqAZsH99chtA75dl4PGvw117117",
+		"item_date": "2017-05-02 06:02:01",
+		"title": "InternetofThings Security AntiPatterns",
+		"url": "https://blog.cloudflare.com/iot-security-anti-patterns/",
+		"domain": "blog.cloudflare.com",
+		"image": ""
+	},
+	{
+		"curated_id": "FI0AIbEzh73f116bCWVlRI8XPiqm2aXzZWA5uNxkIEW123bqvEh1b974QOC0mM7g7WVfaOKotl8Pqmc7FFRjGHcfbw117117",
+		"item_date": "2017-05-02 00:00:00",
+		"title": "EdgeX Core Services Bridge OT and IT for IIoT Applications",
+		"url": "http://blog.opto22.com/optoblog/edgex-core-services-bridge-ot-and-it-for-iiot-applications",
+		"domain": "blog.opto22.com",
+		"image": ""
+	},
+	{
+		"curated_id": "K116RQOcz3MZrL2FqiVzBURjvXv7Sv116fl6F8lIEGIt3Ah7y6ayK3JQlzgVT7D9RLikg2i6yCZr1116xYzj2OXJ2viA117117",
+		"item_date": "2017-05-02 00:00:00",
+		"title": "Building a Steam Powered IoT API with Thingsboard",
+		"url": "https://blog.runscope.com/posts/building-steam-powered-iot-api-thingsboard-raspberry-pi",
+		"domain": "blog.runscope.com",
+		"image": ""
+	},
+	{
+		"curated_id": "o5nXK7v4ln5GbqNssLF123TnPt3Ku1r49u37HejfJa6116ITjmgsAzyvun116UofTAF2z8KV7IwDVJCf116123uCLDyUVTmw117117",
+		"item_date": "2017-05-02 16:45:00",
+		"title": "IoT Privacy and Security Innovation Vs Regulation",
+		"url": "http://www.cioreview.com/news/iot-privacy-and-security-innovation-vs-regulation-nid-24271-cid-133.html",
+		"domain": "www.cioreview.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YXHdLxE74bp59KaTrRo50TpmmSqFpuE123ilh1EqRMXnNfK82mEaZfKAsNaaC8viGPWmgckMOffPvWhWcgqyAhlA117117",
+		"item_date": "2017-05-03 00:00:00",
+		"title": "Insuring the IoT Whos Liable in a Connected World",
+		"url": "https://www.ariasystems.com/blog/insuring-iot-whos-liable-connected-world/",
+		"domain": "www.ariasystems.com",
+		"image": ""
+	},
+	{
 		"curated_id": "bl116aAFPgHwhKKZZA3DMhqGWvLkL8ao5w00NMwvM16eNKSAEgQQp123v1KepKQN6hkzqUNoXelb1UTfy0NWVF232Q117117",
 		"item_date": "2017-04-27 05:05:14",
 		"title": "Analyzing IoT Sensor Data and Building Predictive Algorithms",

@@ -1,5 +1,45 @@
 [
 	{
+		"curated_id": "TgaWbrgR19jGARtImRK4mS8anDjC0gLTQyOCLXGDOax90yVeicZx71pgfhfzO2Z2xQu0goalKZB9uwMjuEAnKQ117117",
+		"item_date": "2017-05-11 13:44:32",
+		"title": "Three Major Challenges for the Internet of Things",
+		"url": "https://datafloq.com/read/three-major-challenges-internet-of-things/83",
+		"domain": "datafloq.com",
+		"image": ""
+	},
+	{
+		"curated_id": "5GRLnq116Pc3Qpc1CCEDPYaI74bWrPLJTboFAW116il1HeKm5pxMCIFWOGq7dsA9nYd9ozwtagTWMKr8NzUSO1AcMg117117",
+		"item_date": "2017-05-10 00:00:00",
+		"title": "Your IoT Baby Isnt as Beautiful as You Think It Is",
+		"url": "http://www.darkreading.com/iot/your-iot-baby-isnt-as-beautiful-as-you-think-it-is-/a/d-id/1328825",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "n123seWzl1Z4SFCfpSd8116Rc6iNRBRsv5J1AeZNVTsZCxKBUWSNW116w123SSRLb7sU8ZG116RB1239x0ooHOqS88ljCVA1GQ117117",
+		"item_date": "2017-05-11 00:00:00",
+		"title": "How APIs Are the Backbone of New IoT Standards",
+		"url": "https://www.programmableweb.com/news/how-apis-are-backbone-new-iot-standards/analysis/2017/05/11",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "rLkvisrSt73xmsD32sv116lN5qLRT5iN2awE45iFw116lnwbaiIHpsfvHXfF1tx2opBwjlYavxGjtnzDRo0Ic50AIg117117",
+		"item_date": "2017-05-10 00:00:00",
+		"title": "Never lose track of your products with HERE tracking",
+		"url": "http://360.here.com/2017/05/10/never-lose-track-products-tracking/",
+		"domain": "360.here.com",
+		"image": ""
+	},
+	{
+		"curated_id": "hzYFqTmSZF5B8boH116h123HXDDNinHY20HC6qUQu1fZXA123116cB123i1iGUrivv1vv27Dtv6R7VHRKsczRrpZ02vtXEuw117117",
+		"item_date": "2017-05-08 12:02:10",
+		"title": "15 MindBlowing Stats About The Internet Of Things",
+		"url": "http://www.cmo.com/features/articles/2015/4/13/mind-blowing-stats-internet-of-things-iot.html",
+		"domain": "www.cmo.com",
+		"image": ""
+	},
+	{
 		"curated_id": "6zzZ1lNYmzMYa88mtmUqrQXOgHs09EbpPHnpa2Yf2SwVQhmN24x123BvJlARyRNG05oiqAZsH99chtA75dl4PGvw117117",
 		"item_date": "2017-05-02 06:02:01",
 		"title": "InternetofThings Security AntiPatterns",

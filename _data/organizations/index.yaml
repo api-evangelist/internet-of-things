@@ -1,275 +1,880 @@
-- slug: api-academy
-  name: API Academy
-  description: >-
-    Your Guide to API Design &amp; Implementation Best Practices. API Academy
-    delivers online lessons and in-person consulting services covering essential
-    API techniques and tools for business managers, interface designers and
-    enterprise architects.
-  url: 'http://www.apiacademy.co/'
-  short_url: ''
-  twitter: 'https://twitter.com/apiacademy'
-  blog: 'http://www.apiacademy.co'
-  blog_rss: 'http://www.apiacademy.co/feed/'
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-academy-logo.png
-  tags: '101,API Learning,API Design Resources'
-- slug: api-stylebook
-  name: API Stylebook
-  description: >-
-    Collections Of Resources For API Designers. Publicly available API design
-    guidelines are analyzed to list covered topics and their references within
-    each one. All references to a specific topic throughout all analyzed
-    guidelines are easily accessible. Browse each topic and be inspired by
-    references from different guidelines. Design Guidelines cover different
-    topics in different ways, get easy access to all references on each on
-  url: 'http://apistylebook.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/apistylebook'
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/API_Stylebook.png
-  tags: 'Design,Guides'
-- slug: apiary
-  name: Apiary
-  description: >-
-    Apiary.io is a hosted suite of tools that help companies build web APIs
-    quickly, test and monitor them easily and document them effortlessly. It
-    provides API owners with necessary infrastructure and helps them build
-    relationship with their users. Core of the self-service solution is API
-    Blueprint, an efficient format for describing an API, aspiring to define new
-    gold standard for REST API development. The product uses this Blueprint to
-    streamline adoption of new services and simplify integration to other
-    systems.
-  url: 'https://apiary.io'
-  short_url: ''
-  twitter: 'https://twitter.com/apiaryio'
-  blog: 'http://blog.apiary.io/'
-  blog_rss: 'http://blog.apiary.io/feed.xml'
-  github: 'https://github.com/apiaryio'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apiary-logo.png
-  tags: 'Design,Virtualization,Virtualization,API LIfeycle,Documentation,Studio'
-- slug: apigee-api-studio
-  name: Apigee API Studio
-  description: >-
-    Apigee launched their API Studio out of their earlier Apigee-127 product,
-    their work on the Swagger platform and editor, and their BaaS offering. The
-    new studio opens up the ability for developers to design, mock, test and
-    share via their online open source based platform.
-  url: 'http://apistudio.io/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-studio-logo.png
-  tags: 'Design,Testing,Virtualization,Clients,Studio'
-- slug: apimatic
-  name: APIMATIC
-  description: >-
-    APIMATIC is an automatic SDK generator for Hypermedia APIs. Providing SDKs
-    or client libraries not only reduces the time required for your customers to
-    begin consuming your API, but also provides competitor advantage by
-    targeting the variety of programming languages. While the market pressures
-    you to release early and release often, you will often find yourself
-    constrained with respect to time and resources. As a result, maintaining
-    SDKs becomes untenable which ends up becoming a support nightmare.
-  url: 'https://www.apimatic.io/'
-  short_url: ''
-  twitter: 'https://twitter.com/apimatic'
-  blog: 'https://apimatic.io/blog'
-  blog_rss: ''
-  github: 'https://github.com/apimatic'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apimatic-logo.png
-  tags: 'Design,SDK,My API Stack,interesting'
-- slug: apimint
-  name: Apimint
-  description: >-
-    APIMINT is an API lifecycle management tool. With our design first approach,
-    all stake holders get a platform to collaborate and give feedback on API
-    design and structure. We make sure your all your teams can easily agree and
-    understand your APIs.
-  url: 'https://www.apimint.com'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Apimint_-_Rapidly_Prototype_APIs.png
-  tags: 'Design,Deployment,Virtualization,Studio,Cloud'
-- slug: gelato.io
-  name: Gelato.io
-  description: >-
-    Gelato.io is a tool for creating really great API Documentation and
-    Developer Portals. You can describe your API, import and sync with Swagger
-    or API Blueprint, write awesome guides (or get them written for you), have
-    your developers register and get updates when things change, get an
-    automatic API Explorer - everything a good Documentation Site needs and
-    more!
-  url: 'https://gelato.io/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gelato-io-logo.png
-  tags: 'Design,Management,Documentation,Portal,interesting'
-- slug: grpc
-  name: gRPC
-  description: >-
-    gRPC is a modern open source high performance RPC framework that can run in
-    any environment. It can efficiently connect services in and across data
-    centers with pluggable support for load balancing, tracing, health checking
-    and authentication. It is also applicable in last mile of distributed
-    computing to connect devices, mobile applications and browsers to backend
-    services.
-  url: 'http://www.grpc.io/'
-  short_url: ''
-  twitter: 'https://twitter.com/grpcio'
-  blog: 'http://www.grpc.io/blog/'
-  blog_rss: 'http://www.grpc.io/feed.xml'
-  github: 'https://github.com/grpc'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/grpc.png
-  tags: Design
-- slug: mashape
-  name: Mashape
-  description: >-
-    Mashape provides tools that enable developers to quickly deliver and consume
-    APIs and offers a marketplace for listing APIs. Mashape provides tools for
-    testing your API, code for generation of custom errors, components for user
-    management and standardized API code language libraries in multiple
-    languages. &nbsp;Once your API is ready for prime time Mashape provides a
-    marketplace for listing your API, letting developers to easily discover and
-    begin hacking with your API, in a social API community environment.
-  url: 'http://mashape.com'
-  short_url: ''
-  twitter: 'https://twitter.com/mashape'
-  blog: 'http://blog.mashape.com/'
-  blog_rss: ''
-  github: 'https://github.com/Mashape'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/mashape-logo.png
-  tags: >-
-    Management,Discovery,Discovery,Design,API Management Other,API
-    LIfeycle,Studio
-- slug: materia
-  name: Materia
-  description: >-
-    A modern development environment to build advanced mobile and web
-    applications. Materia is an easy-to-use backend to build all kinds of
-    applications (mobile, web, gaming and more). Materia tooling aims to manage
-    the entire development cycle for building enterprise class backends.
-  url: 'https://getmateria.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/MateriaHQ'
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Materia_-_Develop_web_and_mobile_application_at_the_speed_of_light_.png
-  tags: 'Design,Deployment,Desktop'
-- slug: mulesoft
-  name: MuleSoft
-  description: >-
-    MuleSoft provides the most widely used integration platform for connecting
-    SaaS and enterprise applications in the cloud and on-premise. With the rise
-    of cloud and mobile, enterprises face a choice: get overwhelmed by the
-    resulting explosion of end points or seize the opportunity to gain
-    competitive advantage. Founded on the idea that connecting applications
-    should not be hard, MuleSoft lets organizations harness the power of their
-    applications through integration. MuleSoft&rsquo;s Anypoint&trade;
-    technology eliminates costly, time-intensive point-to-point integration,
-    enabling business agility.
-  url: 'http://www.mulesoft.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/MuleSoft'
-  blog: 'http://blogs.mulesoft.org/'
-  blog_rss: ''
-  github: 'https://github.com/mulesoft'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mulesoft-logo.jpeg
-  tags: 'Design,Management,API LIfeycle,Studio,Design Editor'
-- slug: reprezen-api-studio
-  name: RepreZen API Studio
-  description: >-
-    RepreZen's solution focuses specifically on the API design process in large
-    organizations and complex ecosystems. API management platforms address
-    various aspects of the downstream lifecycle: packaging, provisioning,
-    metering, proxy, and client portal. API Studio easily ties into API
-    management platforms using generated API description formats including WADL,
-    Swagger, RAML and others.
-  url: 'http://www.reprezen.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/reprezen_API'
-  blog: 'http://www.reprezen.com/blog'
-  blog_rss: 'http://www.reprezen.com/blog/rss.xml'
-  github: 'https://github.com/reprezen'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/reprezen-logo.jpg
-  tags: 'Design,Clients,Studio'
-- slug: restlet
-  name: Restlet
-  description: >-
-    APISpark is an &nbsp;cloud API platform that lets you create, host, manage
-    and use web APIs. Using the Restlet Framework at its core, APISpark
-    simplifies the web API experience, the time to market, and the overall cost
-    to get started and to scale you APIs. &nbsp;Restlet is a web API platform
-    vendor, pioneer of RESTful web APIs. APISpark serves our customers around
-    the world, providing software to build web APIs, which includes APISpark,
-    the PaaS version of Restlet. &nbsp;APISpark lets you build and deploy your
-    web APIs, which includes the creation, hosting and management--all in one
-    solution.
-  url: 'https://restlet.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/restlet'
-  blog: 'http://restlet.com/blog'
-  blog_rss: 'http://restlet.com/blog/feed/'
-  github: 'https://github.com/restlet'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Logo-Restlet-Horizontal-800x225.png
-  tags: 'Management,Spreadsheets,Design,Deployment,Studio,Cloud'
-- slug: stoplight
-  name: StopLight
-  description: >-
-    StopLight provides engineering teams with a new way to document, test, and
-    build web APIs. Our technology easily and automatically maps an API, and
-    then provides tooling and services to reduce development time, and increase
-    reliability and accessibility.
-  url: 'http://stoplight.io/'
-  short_url: ''
-  twitter: 'https://twitter.com/stoplightio'
-  blog: 'http://blog.stoplight.io/'
-  blog_rss: 'http://blog.stoplight.io/rss/'
-  github: 'https://github.com/stoplightio'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stoplight-io-logo.png
-  tags: 'Testing,Clients,API LIfeycle,Proxy,Design,Studio'
-- slug: web-concepts
-  name: Web Concepts
-  description: >-
-    The Web's Uniform Interface is based on a large and growing set of
-    specifications. These specifications establish the shared concepts that
-    providers and consumers of Web services can rely on. Web Concepts is
-    providing an overview of these concepts and of the specifications defining
-    them. One example for how this works is the Hypertext Markup Language
-    (HTML), which defines the media type text/html and a set of link relation
-    types such as alternate and section. Web Concepts provides a structured,
-    quick, and interlinked overview of these and many more concepts that
-    together establish the Web surface.
-  url: 'http://webconcepts.info/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/web-concepts-logo.png
-  tags: 'Design,Guides'
+---
+- slug: aws-internet-of-things
+  name: AWS Internet of Things
+  description: AWS IoT is a managed cloud platform that lets connected devices easily
+    and securely interact with cloud applications and other devices. AWS IoT can support
+    billions of devices and trillions of messages, and can process and route those
+    messages to AWS endpoints and to other devices reliably and securely. With AWS
+    IoT, your applications can keep track of and communicate with all your devices,
+    all the time, even when they aren&rsquo;t connected. AWS IoT makes it easy to
+    use AWS services like AWS Lambda, Amazon Kinesis, Amazon S3, Amazon Machine Learning,
+    Amazon DynamoDB, Amazon CloudWatch, AWS CloudTrail, and Amazon Elasticsearch Service
+    with built-in Kibana integration, to build IoT applications that gather, process,
+    analyze and act on data generated by connected devices, without having to manage
+    any infrastructure.
+  url: https://aws.amazon.com/iot-platform/
+  shorturl: ""
+  twitter: ""
+  blog: https://aws.amazon.com/iot-platform/developer-resources/#Blog
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Internet-Of-Things_AWSIoT.png
+  tags: Amazon Web Services,Internet of Things
+- slug: ubi
+  name: Ubi
+  description: Allows any device with a speaker, microphone and Internet connection
+    to become a voice interactive product. An end-to-end service for implementing
+    voice interaction on any hardware. Our mission is to make interaction with technology
+    and the world around us seamless, secure and natural through voice by enabling
+    everyday objects to come alive.
+  url: http://www.theubi.com/
+  shorturl: ""
+  twitter: https://twitter.com/theubi
+  blog: http://blog.theubi.com/blog/
+  blogrss: http://www.theubi.com/?feed=rss2
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ubi-logo.png
+  tags: Automation,Internet of Things,Voice
+- slug: local-motors
+  name: Local Motors
+  description: Local Motors is an American motor vehicle manufacturing company focused
+    on low-volume manufacturing of open-source motor vehicle designs using multiple
+    microfactories.&nbsp;
+  url: https://localmotors.com/
+  shorturl: ""
+  twitter: https://twitter.com/localmotors
+  blog: https://localmotors.com/blog/
+  blogrss: https://localmotors.com/blog/rss/
+  github: https://github.com/localmotors
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/local-motors.png
+  tags: Automobiles,Internet of Things,Manufacturing
+- slug: buddy-platform
+  name: Buddy Platform
+  description: Buddy offers a range of add-ons to give you even more options for dealing
+    with your device data. From real-time dashboards, extra storage, additional data
+    regions, additional traffic capacity, and much more, Buddy provides the flexibility
+    you need to harness the power of IoT data
+  url: http://buddy.com
+  shorturl: ""
+  twitter: https://twitter.com/buddyplatform
+  blog: http://blog.buddy.com
+  blogrss: ""
+  github: https://github.com/buddy
+  image: ""
+  tags: BaaS,Internet of Things,Federal Government,Federal Government,Federal Government,Federal
+    Government
+- slug: google-beacons
+  name: Google Beacons
+  description: Give your users better location and proximity experiences by providing
+    a strong context signal for their devices in the form of Bluetooth low energy
+    (BLE) beacons with Eddystone, the open beacon format from Google. The Google beacon
+    platform enables you to manage your beacons remotely, integrate with Google services
+    and help users' devices to discover content and functionality across Android,
+    native apps and the web.
+  url: https://developers.google.com/beacons/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-beacons.jpg
+  tags: Beacons,Sensors,Internet of Things,Google APIs
+- slug: konekt
+  name: Konekt
+  description: ""
+  url: http://konekt.io/
+  shorturl: ""
+  twitter: https://twitter.com/konektlabs
+  blog: http://konekt.io/blog/
+  blogrss: http://konekt.io/feed/
+  github: https://github.com/hologram-io
+  image: ""
+  tags: Cellular,Internet of Things
+- slug: amazon-dash
+  name: Amazon Dash
+  description: Amazon Dash Replenishment Service (DRS) enables connected devices to
+    order physical goods from Amazon when supplies are running low&mdash;like a Brita
+    Water Pitcher that orders more filters. By using Amazon Dash Replenishment, device
+    makers are able to leverage Amazon's authentication and payment systems, customer
+    service, and fulfillment network&mdash;giving their customers access to Amazon's
+    low prices, great selection, and reliable delivery.
+  url: https://www.amazon.com/oc/dash-replenishment-service
+  shorturl: ""
+  twitter: https://twitter.com/amazondash
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/AmazonLogo.png
+  tags: Commerce,Internet of Things
+- slug: leapmotion
+  name: LeapMotion
+  description: 'Take your #FirstLeap into 3D motion control, available for $79.99.
+    Explore apps in gaming, music, design and more, at http://t.co/pFmLZTY6w5'
+  url: https://www.leapmotion.com/developers
+  shorturl: ""
+  twitter: https://twitter.com/LeapMotion
+  blog: http://blog.leapmotion.com
+  blogrss: ""
+  github: https://github.com/leapmotion
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1654_logo.jpg
+  tags: Controller,Internet of Things,Devices
+- slug: splunk-dev
+  name: Splunk Dev
+  description: Splunk is the leading provider of operational intelligence software
+    used to monitor, report and analyze real-time machine data as well as terabytes
+    of historical data&ndash;located on-premise or in the cloud. More than half of
+    the Fortune 100 and more than 5,200 enterprises, service providers and government
+    organizations in 90 countries use Splunk to improve service levels, reduce IT
+    operations costs, mitigate security risks, and drive new levels of operational
+    visibility.
+  url: http://splunk.com/
+  shorturl: ""
+  twitter: https://twitter.com/#!/splunkdev
+  blog: http://blogs.splunk.com/
+  blogrss: http://blogs.splunk.com/feed/
+  github: https://github.com/splunk
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/10_logo.png
+  tags: Data,Social,Sensors,Internet of Things
+- slug: bugswarm
+  name: Bugswarm
+  description: Acquire data from and control embedded devices using JavaScript or
+    plain old HTTP. Combine multiple resources together to create a swarm. Once a
+    member of a swarm, a resource can communicate and share data with other resources
+    in that swarm. Control the level of access a resource has to a swarm. Grant a
+    resource permission to produce data, consume data, or do both. Invite another
+    user's resources into your swarms and accept invitations to place your resources
+    in somebody else's swarms. Share your data easily and securely.
+  url: http://developer.bugswarm.net/index.html
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bugswarm-logo.png
+  tags: Device,Data,Internet of Things   Dead
+- slug: thingspeak
+  name: ThingSpeak
+  description: The Buddy Platform is the first BaaS that Powers, Optimizes and Measures
+    your Apps.   Buddy enables developers to build engaging, cloud-connected apps
+    without having to write, test, manage or scale server-side code or infrastructure.
+    Build against Buddy&#8217;s collections of APIs that offer complete end-to-end
+    scenarios like geo-location, photo albums, chat/messaging, image filters, user
+    accounts, friends and more.  Every interaction that a user has with an app built
+    on Buddy generates incredibly high fidelity analytics, all captured in real-time
+    by the Platform with no additional client or server-side code required. Track
+    usage of each feature in your app by demographics, location and intent - now you
+    can go &#8220;back in time&#8221; and adjust the metrics you&#8217;re tracking
+    without needing to update and resubmit your app.  Leverage the Buddy Platform,
+    and satisfy all your cloud infrastructure needs in one place!
+  url: https://thingspeak.com/
+  shorturl: ""
+  twitter: https://twitter.com/thingspeak
+  blog: http://community.thingspeak.com/
+  blogrss: http://feeds.feedburner.com/internetofthings
+  github: https://github.com/thingspeak
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/thingspeak.png
+  tags: Device,Sensors,Things,Internet of Things,Internet of Things
+- slug: ninja-blocks
+  name: Ninja Blocks
+  description: The Ninja Blocks Platform makes connecting so called &#8220;things&#8221;
+    to the internet and each other easy through open source hardware, software and
+    an API service.  Ninja Blocks are tiny open source computers that can sense and
+    react to their environment. They support RF out of the box and are designed to
+    be extended to support everything.  The Ninja Blocks API makes it simple to create
+    apps (webapps, widgets, phone apps) that interact with a users devices. The block
+    software &#8220;wraps&#8221; proprietary devices and offers their features through
+    a RESTful API. Ninja Blocks address the critical element of interoperability -
+    addressing (how do you identify a device), authentication (are you allowed to
+    talk to a device) and protocol (how do you control a device).   The Ninja Blocks
+    mission is to enable real interoperability in the fledgling world of the Internet
+    of Things.
+  url: http://ninjablocks.com/docs/
+  shorturl: ""
+  twitter: https://twitter.com/ninjablocks
+  blog: http://ninjablocks.com/blog
+  blogrss: http://ninjablocks.com/blogs/news.atom
+  github: https://github.com/ninjablocks
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1450_logo.png
+  tags: Devices,Internet of Things
+- slug: ecobee
+  name: ecobee
+  description: ecobee, Inc. delivers energy conservation solutions. The company offers
+    ecobee Smart Thermostat, a digital programmable thermostat that helps in customizing
+    temperature settings. The thermostat connects the clients to their WiFi, and gives
+    them remote access to the thermostat settings from any computer and helps in energy
+    conservation. Its products are used in single family homes, multi-family dwellings,
+    and offices. The company accepts orders online.
+  url: http://www.ecobee.com/
+  shorturl: ""
+  twitter: http://twitter.com/ecobee
+  blog: http://www.ecobee.com/blog/
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ecobee-logo-550x198.jpg
+  tags: Energy,Home,Thermostats,Internet of Things
+- slug: hobo-data-loggers
+  name: HOBO Data Loggers
+  description: The HOBOlink&reg; Web Services API is an application programming interface
+    that enables organizations to easily integrate energy and environmental data from
+    Onset HOBOlink web servers with custom software applications. It will be utilized
+    by a range of users, from building energy dashboard suppliers to developers looking
+    to embed real-time weather data from Onset HOBO&reg; U30 monitoring systems into
+    web-based portals.
+  url: http://www.onsetcomp.com/hobolink-web-services-hlws
+  shorturl: ""
+  twitter: https://twitter.com/#!/HOBODataLoggers
+  blog: ""
+  blogrss: http://feeds.feedburner.com/OnsetRssFeed
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/875_logo.jpg
+  tags: Environment,Weather,Devices,Buildings,Internet of Things,Sensors
+- slug: istabai
+  name: ISTABAI
+  description: Istabai is an application that allows users to manage their home heating
+    systems from anywhere with an internet connection. Users can set the service up
+    simply by changing their radiator head and plugging in Istabai's internet cable.
+    The Istabai mobile application and web solution will relay the current temperature
+    to the user and allow them to regulate it as they like. The system can also be
+    accessed and controlled programmatically via REST API. The Istabai website is
+    provided in English, Russian, and Latvian.
+  url: http://istabai.com/
+  shorturl: ""
+  twitter: https://twitter.com/istabai
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/istabai-logo.jpeg
+  tags: Home,Buildings,Internet of Things
+- slug: belkin
+  name: Belkin
+  description: WeMo is a series of products from Belkin International, Inc. that allows
+    users to control their home electronics from anywhere. Currently, Belkin has developed
+    the WeMo Switch, WeMo Motion Sensor, and the WeMo App. The WeMo Switch can be
+    plugged into any home outlet which can then be controlled from the WeMo iOS App
+    via the home WiFi or mobile phone network. The WeMo Motion Sensor can be placed
+    anywhere as long as it is connected to the WeMo Switch, the sensor will turn the
+    switch on and off as people pass by. The WeMo App, which is currently available
+    on iOS devices, controls the switch from anywhere in the world as long the iOS
+    device is connected to the Internet.&nbsp;
+  url: http://www.belkin.com/us/wemo-switch
+  shorturl: ""
+  twitter: https://twitter.com/belkin
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: ""
+  tags: Home,Internet of Things
+- slug: nest
+  name: Nest
+  description: Nest Labs is the creator of the world&rsquo;s first Learning Thermostat.
+    Nest learns from your temperature adjustments, programs itself to keep you comfortable,
+    and guides you to energy savings.
+  url: http://nest.com/
+  shorturl: ""
+  twitter: https://twitter.com/nest
+  blog: http://nest.com/blog/
+  blogrss: http://nest.com/feed.rss
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/nest-logo.jpg
+  tags: Home,Thermostat,Buildings,Internet of Things
+- slug: arrayent
+  name: Arrayent
+  description: Arrayent, Inc., an engineering and design company, produces electrical
+    and embedded software consumer electronics that connect to the Internet. The company
+    develops products that provide wireless, gateway, and server solutions to Internet-enabled
+    products in home healthcare, control, fitness, and electronics markets in North
+    America and Europe. It also provides back-end Internet services and software for
+    products to communicate; and Internet connect systems that enable electronic product
+    brand owners to connect their products wirelessly to Web applications hosted in
+    the Internet cloud.   The company was incorporated in 2002 and is headquartered
+    in Redwood City, California.
+  url: http://www.arrayent.com
+  shorturl: ""
+  twitter: https://twitter.com/Arrayent
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1554_logo.png
+  tags: Hotel,Device,Mobile,Realworld,Internet of Things
+- slug: augmate
+  name: Augmate
+  description: Augmate is the first wearable platform that accelerates the development
+    of cloud-based smart eyewear applications. Our development environment allows
+    us to build applications that integrate with enterprise backend services and a
+    variety of API plug-ins. These capabilities enhance the user experience for the
+    deskless workers that utilize our applications.&nbsp;
+  url: http://augmate.com/
+  shorturl: ""
+  twitter: https://twitter.com/augmate
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/augmate-logo.jpeg
+  tags: Internet of Things
+- slug: avion
+  name: Avi-On
+  description: ""
+  url: http://avi-on.com/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: ""
+  tags: Internet of Things
+- slug: crowsnest
+  name: Crowsnest
+  description: ""
+  url: https://www.crowsnest.io/
+  shorturl: ""
+  twitter: https://twitter.com/crowsnestio
+  blog: https://www.crowsnest.io/blog/
+  blogrss: ""
+  github: ""
+  image: ""
+  tags: Internet of Things
+- slug: davra-networks
+  name: Davra Networks
+  description: Davra Networks develop an application enablement platform for the Internet
+    of Things. Davra Networks' RuBAN&trade; platform is a customer premise or cloud
+    based, simple to use application enablement platform that takes critical data
+    from the network and any connected devices or sensors and publishes it through
+    our IOT open API making it easy to build and run Internet of Things (IoT) applications.
+  url: http://www.davranetworks.com/
+  shorturl: ""
+  twitter: https://twitter.com/davranetworks
+  blog: http://www.davranetworks.com/news
+  blogrss: http://www.davranetworks.com/RSSRetrieve.aspx?ID=549&Type=RSS20
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/davralogo.jpg
+  tags: Internet of Things
+- slug: droplit.io
+  name: Droplit.io
+  description: Droplit.io is a set of tools that reduce the time and cost to launch
+    connected things. It bridges between standards and protocols as you need in a
+    secure and scalable way. &nbsp;Launching a connected product? Speed up development
+    to minutes instead of months. Already have a product? Add new features quickly
+    and a public API. &nbsp;Ideal for buildings with many different types of devices
+    and specialized equipment. Adaptable to virtually any machine or device. Integrate
+    thousands of devices and use autonomous behaviors for easy notifications and control.
+  url: http://www.droplit.io
+  shorturl: ""
+  twitter: https://twitter.com/DroplitIO
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/droplit-logo.png
+  tags: Internet of Things
+- slug: ethor
+  name: eThor
+  description: ""
+  url: ""
+  shorturl: ""
+  twitter: https://twitter.com/eThor
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: ""
+  tags: Internet of Things
+- slug: gigabryte
+  name: GigaBryte
+  description: ""
+  url: http://www.gigabryte.com/
+  shorturl: ""
+  twitter: https://twitter.com/getGigaBryte
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: ""
+  tags: Internet of Things
+- slug: heins
+  name: HEINS
+  description: ""
+  url: ""
+  shorturl: ""
+  twitter: https://twitter.com/heins_io
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: ""
+  tags: Internet of Things
+- slug: internet-of-things
+  name: internet of things
+  description: ""
+  url: ""
+  shorturl: ""
+  twitter: https://twitter.com/iotconnection
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: ""
+  tags: Internet of Things
+- slug: iobridge
+  name: ioBridge
+  description: ioBridge produces devices and web platform that allows for web-based
+    control and monitoring via web pages, social networks, and mobile devices. The
+    company&rsquo;s first product is the ioBridge IO-204 which enables hobbyists and
+    makers to easily create interactive, internet connected projects. Enterprise solutions
+    include cloud-based data logging and professional integration of core hardware
+    and software with third-party products and services. ioBridge specializes in environmental
+    and resource control, automation, management, and monitoring via IP-based networks.
+  url: http://www.iobridge.com/
+  shorturl: ""
+  twitter: https://twitter.com/iobridge
+  blog: http://blog.iobridge.com/
+  blogrss: http://feeds.feedburner.com/iobridge
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/iobridge-logo.png
+  tags: Internet of Things
+- slug: iot.eclipse.org
+  name: iot.eclipse.org
+  description: This portal is where you can learn about the technologies developed
+    at Eclipse to make Internet of Things (IoT) development simpler. Our technologies
+    aim at establishing an open IoT/M2M platform to be used by anyone.
+  url: http://iot.eclipse.org/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/iot-ecliipse.jpeg
+  tags: Internet of Things
+- slug: neosesame
+  name: Neosesame
+  description: ""
+  url: http://neosesame.com/
+  shorturl: ""
+  twitter: https://twitter.com/Neosesame
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: ""
+  tags: Internet of Things
+- slug: nexcom
+  name: Nexcom
+  description: ""
+  url: http://www.nexcom.com/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: ""
+  tags: Internet of Things
+- slug: nixie
+  name: Nixie
+  description: ""
+  url: http://www.flynixie.com
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: ""
+  tags: Internet of Things
+- slug: watttime
+  name: WattTime
+  description: ""
+  url: ""
+  shorturl: ""
+  twitter: https://twitter.com/wattTime
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: ""
+  tags: Internet of Things
+- slug: mobagel-inc
+  name: MoBagel Inc
+  description: MoBagel is a real-time cloud analytics platform that helps IoT companies
+    monitor and analyze hardware usage, speed up research and development, forecast
+    sales and marketing strategies, and proactively engage with customers to prevent
+    product returns. As a result, companies can also save up to millions in cost reductions.
+  url: https://mobagel.com/
+  shorturl: ""
+  twitter: https://twitter.com/mobagel
+  blog: ""
+  blogrss: ""
+  github: https://github.com/MOBAGEL
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mobagel-logo.png
+  tags: Internet of Things,Analysis
+- slug: relayr
+  name: relayr
+  description: ""
+  url: ""
+  shorturl: ""
+  twitter: https://twitter.com/relayr_cloud
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: ""
+  tags: Internet of Things,API LIfeycle
+- slug: tempodb
+  name: TempoDB
+  description: ""
+  url: https://tempo-db.com/
+  shorturl: ""
+  twitter: https://twitter.com/tempodb
+  blog: http://blog.tempo-db.com/
+  blogrss: http://blog.tempo-db.com/rss
+  github: ""
+  image: ""
+  tags: Internet of Things,Data,Sensors
+- slug: adafruit-industries
+  name: Adafruit Industries
+  description: Adafruit was founded in 2005 by MIT hacker &amp; engineer, Limor Ladyada
+    Fried. Her goal was to create the best place online for learning electronics and
+    making the best designed products for makers of all ages and skill levels.&nbsp;
+  url: https://www.adafruit.com/
+  shorturl: ""
+  twitter: https://twitter.com/adafruit
+  blog: https://blog.adafruit.com/
+  blogrss: https://blog.adafruit.com/feed/
+  github: https://github.com/adafruit
+  image: ""
+  tags: Internet of Things,Devices
+- slug: hypercat
+  name: Hypercat
+  description: HyperCat is a hypermedia catalogue format designed for exposing information
+    about IoT assets over the web.&nbsp;
+  url: http://www.hypercat.io/
+  shorturl: ""
+  twitter: https://twitter.com/hypercatiot
+  blog: http://www.hypercat.io/blog
+  blogrss: http://www.hypercat.io/1/feed
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/hypercat-logo.png
+  tags: Internet of Things,Discovery
+- slug: notion
+  name: Notion
+  description: Notion&rsquo;s single sensor makes it easy to monitor your entire home,
+    no matter where you are. No one cares about your home as much as you do.But, we'd
+    like to think we're a close second. We created Notion because, like you, we want
+    to know with certainty that everything is ok in our homes, or know immediately
+    when things are not as they should be. We live in a connected world, and we believe
+    there&rsquo;s no reason we shouldn&rsquo;t be able to know when important things
+    happen in our homes.
+  url: http://notion.is/
+  shorturl: ""
+  twitter: https://twitter.com/notion
+  blog: http://notion.is/blog/
+  blogrss: http://notion.is/blog/feed/
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/notion-logo-black.png
+  tags: Internet of Things,Home
+- slug: danalock
+  name: DanaLock
+  description: ""
+  url: http://www.danalock.com/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: ""
+  tags: Internet of Things,Locks
+- slug: paho
+  name: Paho
+  description: "The Paho project provides open-source client implementations of open
+    and standard messaging protocols aimed at new, existing, and emerging applications
+    for Machine\u2011to\u2011Machine (M2M) and Internet of Things (IoT)"
+  url: https://www.eclipse.org/paho/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: http://dev.eclipse.org/mhonarc/lists/paho-dev/maillist.rss
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/paho_logo_400.png
+  tags: Internet of Things,M2M
+- slug: machineshop
+  name: MachineShop
+  description: MachineShop transforms the way enterprises and developers build, integrate
+    and manage solutions to unlock more business value and intelligence. With MachineShop&rsquo;s
+    API-centric middleware, every Internet-enabled thing, system, device, network,
+    application, event and business process can be expressed as a service &ndash;
+    without the limitations of a proprietary Platform.
+  url: http://www.machineshop.io/
+  shorturl: ""
+  twitter: https://twitter.com/machineshopio
+  blog: http://www.machineshop.io/blog
+  blogrss: http://www.machineshop.io/blog/rss.xml
+  github: https://github.com/MachineShop-IOT
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/machineshop-logo.png
+  tags: Internet of Things,Management
+- slug: mosquitto
+  name: Mosquitto
+  description: The Mosquitto project provides an open-source implementation of an
+    MQTT broker.
+  url: https://www.eclipse.org/mosquitto/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mosquitto-145x100.png
+  tags: Internet of Things,MQTT,Open Source
+- slug: luna-sleep
+  name: Luna Sleep
+  description: ""
+  url: http://lunasleep.com/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: ""
+  tags: Internet of Things,Sleep
+- slug: follow-us-pavlok
+  name: Follow us @Pavlok
+  description: "Use Pavlok to connect with existing services to deliver the lasting
+    performance customers demand. Any developer can use Pavlok\u2019s open API to
+    increase compliance and improve communication with users. For designers of tracking
+    apps, other wearable devices, digital course producers, or anyone who could use
+    positive and negative feedback to drive stickiness for their service, Pavlok provides
+    a seamless solution."
+  url: http://pavlok.com/
+  shorturl: ""
+  twitter: https://twitter.com/getpavlok
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: ""
+  tags: Internet of Things,Watch,Story
+- slug: strap
+  name: Strap
+  description: Strap is a software and analytics platform that unleashes the potential
+    of wearables for developers, enterprises, and brands. The flagship offering, StrapMetrics,
+    is a cross-platform analytics SDK for wearable applications that runs on smart
+    wearable devices, and offers unique data insights about users and app performance.&nbsp;
+  url: https://www.straphq.com/
+  shorturl: ""
+  twitter: https://twitter.com/getstrap
+  blog: http://blog.straphq.com/
+  blogrss: http://blog.straphq.com/feed/
+  github: https://github.com/strap
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/strap-logo2.png
+  tags: Internet of Things,Wearables
+- slug: justapis
+  name: JustAPIs
+  description: "JustAPIs is designed to help developers overcome existing limitations
+    when it comes to building APIs.\_The JustAPIs solution is a high-performance,
+    compiled executable that can run on any Linux, Windows, or Mac OSX based hardware,
+    from a single developers laptop to large-scale, clustered production environments.
+    With zero dependencies, JustAPIs can be installed instantly and includes sample
+    APIs with familiar JavaScript-based business logic, so developers can be up and
+    running with their own API server in minutes."
+  url: http://justapis.com/
+  shorturl: ""
+  twitter: https://twitter.com/JustAPIs
+  blog: http://blog.jexia.com/blog/
+  blogrss: http://blog.jexia.com/feed/
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/justapis-logo.png
+  tags: Management,Deployment,Internet of Things
+- slug: google-cloud-pub/sub
+  name: Google Cloud Pub/Sub
+  description: Cloud Pub/Sub is a fully-managed real-time messaging service that allows
+    you to send and receive messages between independent applications. You can leverage
+    Cloud Pub/Sub&rsquo;s flexibility to decouple systems and components hosted on
+    Google Cloud Platform or elsewhere on the Internet. By building on the same technology
+    Google uses, Cloud Pub/Sub is designed to provide &ldquo;at least once&rdquo;
+    delivery at low latency with on-demand scalability to 1 million messages per second
+    (and beyond).
+  url: https://cloud.google.com/pubsub/docs/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-pub-sub-middleware.png
+  tags: Messaging,Real Time,Google APIs,Internet of Things
+- slug: weblab
+  name: weblab
+  description: Microservices at your fingertips. no provisioning or deployments required.
+    give your IoT device compute super powers. Run code in response to events. Your
+    microservice up in less than 7 seconds. Use our awesome CLI to spin a service
+    in seconds. You can also integrate with your favourite CI/CD solution for automated
+    deployments. Run your code with just an HTTPS call. As simple as that. Your mobile
+    or IoT device gets compute superpowers.
+  url: https://weblab.io/
+  shorturl: ""
+  twitter: https://twitter.com/weblabhq
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/weblab-io-logo.png
+  tags: Microservices,Deployment,Internet of Things,Serverless
+- slug: azure-iot-hub
+  name: Azure IoT Hub
+  description: Jumpstart your Internet of Things project with Microsoft IoT Hub. Connect,
+    monitor, and control billions of IoT assets running on a broad set of operating
+    systems and protocols. Establish reliable, bi-directional communication with these
+    assets, even if they&rsquo;re intermittently connected, and analyze&mdash;and
+    act on&mdash;incoming telemetry data. Enhance the security of your IoT solutions
+    by using per-device authentication to communicate with devices that have the appropriate
+    credentials. Revoke access rights to specific devices to maintain the integrity
+    of your system.
+  url: https://azure.microsoft.com/en-us/services/iot-hub/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-iot-01-establish.png
+  tags: Microsoft,Internet of Things
+- slug: opendaylight-project
+  name: OpenDaylight Project
+  description: OpenDaylight is an open platform for network programmability to enable
+    SDN and NFV for networks at any size and scale. &nbsp;The community&rsquo;s second
+    release &ldquo;Helium&rdquo; comes with a new user interface and a much simpler
+    and customizable installation process thanks to the use of the Apache Karaf container.
+  url: http://www.opendaylight.org/
+  shorturl: ""
+  twitter: https://twitter.com/OpenDaylightSDN
+  blog: http://www.opendaylight.org/blog
+  blogrss: http://www.opendaylight.org/blog/feed
+  github: https://github.com/opendaylight
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/opendaylight-logo.png
+  tags: Network,Network,Smart Cities,Internet of Things
+- slug: sen.se
+  name: Sen.se
+  description: ""
+  url: http://dev.sen.se/
+  shorturl: ""
+  twitter: https://twitter.com/#!/sen_se
+  blog: ""
+  blogrss: http://blog.sen.se/rss
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1146_logo.png
+  tags: Programming,Prototype,Device,Sensors,Internet of Things
+- slug: spark-devices
+  name: Spark Devices
+  description: You want your connected product to be smart, right? Give it an operating
+    system designed for the Internet of Things. Spark OS is a distributed operating
+    system, where servers in the Cloud do the heavy lifting. That way your product
+    can handle complex, intelligent behaviors when it's online, even with only kilobytes
+    of memory.
+  url: https://www.spark.io/
+  shorturl: ""
+  twitter: https://twitter.com/sparkdevices
+  blog: http://blog.spark.io/
+  blogrss: http://blog.spark.io/feed.xml
+  github: http://spark.github.io/
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/spark.png
+  tags: Romania,Device,Lighting,Internet of Things
+- slug: datasnap.io,-inc.
+  name: Datasnap.io, Inc.
+  description: datasnap.io provides analytics products that deliver insight from proximity-triggered
+    customer engagement on mobile devices. &nbsp;The datasnap.io platform delivers
+    insight to enterprises deploying proximity technologies by mapping paths in physical
+    space, providing funnel analysis for proximity triggered push, linking consumer
+    segment data to dwell time and other analysis.
+  url: http://datasnap.io/
+  shorturl: ""
+  twitter: https://twitter.com/datasnapio
+  blog: http://datasnap-io.tumblr.com/
+  blogrss: http://datasnap-io.tumblr.com/rss
+  github: https://github.com/datasnap-io
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/datasnap-io-logo.png
+  tags: Sensors,Beacons,Internet of Things
+- slug: bacon-beacons
+  name: Bacon Beacons
+  description: ""
+  url: http://www.baconbeacons.com/
+  shorturl: ""
+  twitter: https://twitter.com/BaconBeacons
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bacon-beacons.png
+  tags: Sensors,Beacons,Internet of Things,Chicago
+- slug: sensorcloud
+  name: SensorCloud
+  description: ""
+  url: ""
+  shorturl: ""
+  twitter: https://twitter.com/SensorCloudNews
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: ""
+  tags: Sensors,Internet of Things
+- slug: ubidots
+  name: Ubidots
+  description: Our mission is to help the world understand and make sense of its data.
+    We provide a platform for makers, developers and companies to easily capture sensor
+    data and turn it into useful information. Having emerged from the healthcare sector,
+    our core platform evolved to comply with the highest standards, serving 3 of the
+    top 25 hospitals in Latin America. We have processed over 180 million data points
+    and sent over 200.000 alerts about business events taking place in health institutions,
+    food storage chambers, retail stores and oil &amp; gas fields.&nbsp;
+  url: http://ubidots.com/
+  shorturl: ""
+  twitter: https://twitter.com/ubidots
+  blog: ""
+  blogrss: ""
+  github: https://github.com/ubidots
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ubidots.jpeg
+  tags: Sensors,Internet of Things
+- slug: xively
+  name: Xively
+  description: a community of people building a microfinance movement powered by open
+    source
+  url: https://xively.com/
+  shorturl: ""
+  twitter: https://twitter.com/XivelyIOT
+  blog: http://blog.xively.com/
+  blogrss: ""
+  github: https://github.com/xively
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/451_logo.png
+  tags: Sensors,Internet of Things,Devices
+- slug: zeo
+  name: Zeo
+  description: Zeo uses their sleep technology and tools to track sleep and behavior
+    sciences. They formulate their data into analytics and provide their users with
+    recommendations based on each individuals sleeping patterns.  On March 12, 2013,
+    it has come to light that Zeo is shutting down and is looking for a buyer.1
+  url: http://mysleep.myzeo.com/api/api.shtml
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/984_logo.png
+  tags: Sleep,Device,Internet of Things   Dead
+- slug: exosite
+  name: Exosite
+  description: They&#8217;ve been developing embedded technologies for over 20 years
+    - and have first-hand experience dealing with the lack of connectivity between
+    devices, networks and users. The exponential growth in electronic data implores
+    a ubiquitous connection tool. Exosite&#8217;s One Platform is that tool. Our goal
+    is to make accessing and analyzing data easier than subscribing to a mobile phone
+    service.
+  url: http://exosite.com/
+  shorturl: ""
+  twitter: https://twitter.com/exosite
+  blog: ""
+  blogrss: http://exosite.com/blog/feed/
+  github: https://github.com/exosite
+  image: ""
+  tags: Videos,Cloud storage platform,Cloud,Storage,Freshbooks,Mobile,Internet of
+    Things
+- slug: sensr.net
+  name: Sensr.net
+  description: We'll keep track of interesting images and alert you when something
+    happens. We're starting off with basic motion detection. We keep the images around
+    and organize them by time and day. We'll send you an email or a text message if
+    you'd like when we detect something. Heading out of town for the weekend? Leave
+    your camera pointed at the front door. If someone comes in, we'll text you. You
+    can also share your cameras with your friends or the whole world. We encourage
+    sharing, but it's best not to share cameras located in ultra private spaces. Sorry,
+    we don't allow adult content on our site. There are plenty of other places on
+    the Internet if you're looking for that kind of stuff.
+  url: https://sensr.net/api
+  shorturl: ""
+  twitter: https://twitter.com/sensr
+  blog: http://sensr.net/blog
+  blogrss: http://sensr.net/blog/feed/
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/924_logo.png
+  tags: Videos,Webcam,Sensors,Devices,Internet of Things,Cameras,Surveillance
+...

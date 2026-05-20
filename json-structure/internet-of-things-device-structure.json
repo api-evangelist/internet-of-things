@@ -1,0 +1,117 @@
+{
+  "$schema": "https://json-structure.org/meta/core/v0/#",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/internet-of-things/refs/heads/main/json-structure/internet-of-things-device-structure.json",
+  "name": "Device",
+  "description": "Represents a connected device registered with an IoT platform, including identity, metadata, connection state, and the reported and desired shadow state.",
+  "type": "object",
+  "properties": {
+    "device_id": {
+      "type": "string",
+      "description": "Globally unique identifier for the device, often the platform-issued thing name or device ID.",
+      "example": "thermostat-living-room-01"
+    },
+    "name": {
+      "type": "string",
+      "description": "Human-readable name for the device.",
+      "example": "Living Room Thermostat"
+    },
+    "device_type": {
+      "type": "string",
+      "description": "Type or category of the device.",
+      "enum": [
+        "thermostat",
+        "camera",
+        "lock",
+        "light",
+        "sensor",
+        "switch",
+        "speaker",
+        "gateway",
+        "vehicle",
+        "tracker",
+        "appliance",
+        "other"
+      ],
+      "example": "thermostat"
+    },
+    "manufacturer": {
+      "type": "string",
+      "description": "Manufacturer or brand of the device.",
+      "example": "Google Nest"
+    },
+    "model": {
+      "type": "string",
+      "description": "Model identifier reported by the device.",
+      "example": "Nest Learning Thermostat 3rd Gen"
+    },
+    "firmware_version": {
+      "type": "string",
+      "description": "Firmware version currently running on the device.",
+      "example": "6.2.4"
+    },
+    "protocol": {
+      "type": "string",
+      "description": "Primary transport protocol the device uses to communicate with the platform.",
+      "enum": [
+        "mqtt",
+        "mqtts",
+        "coap",
+        "lwm2m",
+        "http",
+        "https",
+        "websocket",
+        "lorawan",
+        "zigbee",
+        "z-wave",
+        "matter",
+        "bluetooth",
+        "other"
+      ],
+      "example": "mqtts"
+    },
+    "connection_status": {
+      "type": "string",
+      "description": "Current connection state of the device.",
+      "enum": ["connected", "disconnected", "unknown"],
+      "example": "connected"
+    },
+    "last_seen": {
+      "type": "datetime",
+      "description": "Timestamp the platform last received a message or heartbeat from the device.",
+      "example": "2026-05-19T14:32:11Z"
+    },
+    "location": {
+      "type": "object",
+      "description": "Optional geographic or logical location of the device.",
+      "properties": {
+        "latitude": { "type": "number", "example": 37.7749 },
+        "longitude": { "type": "number", "example": -122.4194 },
+        "room": { "type": "string", "example": "Living Room" },
+        "site": { "type": "string", "example": "Home" }
+      }
+    },
+    "shadow": {
+      "type": "object",
+      "description": "Device shadow capturing reported and desired state for the device.",
+      "properties": {
+        "reported": {
+          "type": "object",
+          "description": "State most recently reported by the device.",
+          "additionalProperties": true
+        },
+        "desired": {
+          "type": "object",
+          "description": "State the platform wants the device to converge to.",
+          "additionalProperties": true
+        }
+      }
+    },
+    "tags": {
+      "type": "array",
+      "description": "User or platform tags applied to the device.",
+      "items": { "type": "string" },
+      "example": ["upstairs", "guest-room", "fleet-a"]
+    }
+  },
+  "required": ["device_id", "device_type", "protocol"]
+}

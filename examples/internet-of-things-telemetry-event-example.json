@@ -1,0 +1,18 @@
+{
+  "event_id": "01HZTQA7C9NX5W1B8RX4E2Y3M9",
+  "device_id": "thermostat-living-room-01",
+  "topic": "homes/123/devices/thermostat-living-room-01/telemetry",
+  "timestamp": "2026-05-19T14:32:11Z",
+  "received_at": "2026-05-19T14:32:11.412Z",
+  "metric": "temperature_celsius",
+  "value": 21.5,
+  "unit": "C",
+  "quality": "good",
+  "qos": 1,
+  "metadata": {
+    "firmware_version": "6.2.4",
+    "rssi_dbm": -58,
+    "battery_percent": 87,
+    "correlation_id": "session-9f3a"
+  }
+}

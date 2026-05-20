@@ -1,0 +1,326 @@
+vocabulary: "1.0.0"
+
+info:
+  provider: Internet of Things
+  description: Vocabulary for the Internet of Things topic, covering cloud IoT platforms, smart home ecosystems, MQTT messaging, edge runtimes, and connected device APIs.
+  created: '2026-05-19'
+  modified: '2026-05-19'
+
+operational:
+  apis:
+    - name: Amazon IoT Core
+      namespace: amazon-iot-core
+      status: active
+    - name: Google Nest
+      namespace: google-nest
+      status: active
+    - name: Tuya
+      namespace: tuya
+      status: active
+    - name: HiveMQ
+      namespace: hivemq
+      status: active
+    - name: IFTTT
+      namespace: ifttt
+      status: active
+    - name: Cisco Meraki
+      namespace: cisco-meraki
+      status: active
+    - name: Samsara
+      namespace: samsara
+      status: active
+    - name: KubeEdge
+      namespace: kubeedge
+      status: active
+
+  resources:
+    - name: devices
+      description: Connected devices (things) registered with an IoT platform
+      actions:
+        - list
+        - get
+        - create
+        - update
+        - delete
+    - name: device-shadows
+      description: Reported and desired state representations for devices
+      actions:
+        - get
+        - update
+    - name: telemetry-events
+      description: Time-series telemetry messages produced by devices
+      actions:
+        - publish
+        - subscribe
+        - query
+    - name: commands
+      description: Commands sent from the cloud to a device for execution
+      actions:
+        - send
+        - get
+        - list
+    - name: rules
+      description: Platform rules that route, filter, and transform incoming telemetry
+      actions:
+        - list
+        - get
+        - create
+        - update
+        - delete
+    - name: firmware-updates
+      description: Over-the-air firmware update jobs targeting devices or groups
+      actions:
+        - create
+        - get
+        - list
+        - cancel
+    - name: device-groups
+      description: Logical groupings of devices for fleet management and policy targeting
+      actions:
+        - list
+        - get
+        - create
+        - update
+        - delete
+
+  actions:
+    - name: list
+      description: Enumerate resources such as devices, rules, or jobs
+      httpMethod: GET
+      pattern: read
+    - name: get
+      description: Retrieve a single resource
+      httpMethod: GET
+      pattern: read
+    - name: create
+      description: Register a new device, rule, or job
+      httpMethod: POST
+      pattern: write
+    - name: update
+      description: Update an existing resource or desired state
+      httpMethod: PUT
+      pattern: write
+    - name: delete
+      description: Remove a device, rule, or group
+      httpMethod: DELETE
+      pattern: destructive
+    - name: publish
+      description: Publish a telemetry message to a topic
+      httpMethod: POST
+      pattern: write
+    - name: subscribe
+      description: Subscribe to a topic to receive telemetry or events
+      httpMethod: GET
+      pattern: stream
+    - name: query
+      description: Query historical telemetry by device, time range, or metric
+      httpMethod: GET
+      pattern: query
+    - name: send
+      description: Send a command to a device
+      httpMethod: POST
+      pattern: write
+    - name: cancel
+      description: Cancel an in-flight job such as a firmware rollout
+      httpMethod: POST
+      pattern: write
+
+  schemas:
+    core:
+      - name: Device
+        description: A connected device registered with an IoT platform
+        properties:
+          - device_id
+          - name
+          - device_type
+          - manufacturer
+          - model
+          - firmware_version
+          - protocol
+          - connection_status
+          - last_seen
+          - location
+          - shadow
+          - tags
+      - name: TelemetryEvent
+        description: A telemetry message emitted by a device
+        properties:
+          - event_id
+          - device_id
+          - topic
+          - timestamp
+          - received_at
+          - metric
+          - value
+          - unit
+          - quality
+          - qos
+          - metadata
+
+  enums:
+    device_types:
+      - thermostat
+      - camera
+      - lock
+      - light
+      - sensor
+      - switch
+      - speaker
+      - gateway
+      - vehicle
+      - tracker
+      - appliance
+      - other
+    protocols:
+      - mqtt
+      - mqtts
+      - coap
+      - lwm2m
+      - http
+      - https
+      - websocket
+      - lorawan
+      - zigbee
+      - z-wave
+      - matter
+      - bluetooth
+    connection_status:
+      - connected
+      - disconnected
+      - unknown
+    quality_levels:
+      - good
+      - uncertain
+      - bad
+    mqtt_qos:
+      - 0
+      - 1
+      - 2
+
+capability:
+  workflows:
+    - name: Device Onboarding and Provisioning
+      description: Register a new device, issue credentials, and bind it to a fleet for ongoing management
+      apis:
+        - amazon-iot-core
+        - tuya
+        - hivemq
+      personas:
+        - IoT Platform Engineer
+      domains:
+        - Device Management
+    - name: Telemetry Ingestion and Routing
+      description: Receive telemetry from devices over MQTT and route it to storage, analytics, and notification services
+      apis:
+        - amazon-iot-core
+        - hivemq
+        - pubnub
+      personas:
+        - Data Engineer
+      domains:
+        - Telemetry
+    - name: Smart Home Automation
+      description: Wire devices from multiple vendors into user-authored automations and routines
+      apis:
+        - google-nest
+        - tuya
+        - ifttt
+      personas:
+        - Smart Home Consumer
+      domains:
+        - Smart Home
+    - name: Fleet OTA Firmware Update
+      description: Roll out a firmware update to a device group with staged rollout and rollback
+      apis:
+        - amazon-iot-core
+        - amazon-iot-device-management
+      personas:
+        - Fleet Operator
+      domains:
+        - Device Management
+    - name: Edge Inference and Local Control
+      description: Run analytics and ML inference on gateways or devices for low-latency local decisions
+      apis:
+        - amazon-iot-greengrass
+        - kubeedge
+        - lf-edge
+      personas:
+        - Edge Developer
+      domains:
+        - Edge
+
+  personas:
+    - id: iot-platform-engineer
+      name: IoT Platform Engineer
+      description: Engineers operating cloud IoT platforms and device registries at scale
+      workflows:
+        - Device Onboarding and Provisioning
+        - Fleet OTA Firmware Update
+    - id: data-engineer
+      name: Data Engineer
+      description: Engineers building telemetry pipelines from devices into analytics and storage
+      workflows:
+        - Telemetry Ingestion and Routing
+    - id: smart-home-consumer
+      name: Smart Home Consumer
+      description: End users wiring smart home devices together through apps and automation platforms
+      workflows:
+        - Smart Home Automation
+    - id: fleet-operator
+      name: Fleet Operator
+      description: Operators managing fleets of connected devices, vehicles, or equipment
+      workflows:
+        - Fleet OTA Firmware Update
+    - id: edge-developer
+      name: Edge Developer
+      description: Developers building edge runtimes and on-device logic for IoT systems
+      workflows:
+        - Edge Inference and Local Control
+
+  domains:
+    - name: Device Management
+      description: Identity, provisioning, lifecycle, and policy for connected devices
+    - name: Telemetry
+      description: Ingestion, routing, and storage of device-generated time-series data
+    - name: Smart Home
+      description: Consumer-facing IoT platforms and cross-vendor automation
+    - name: Edge
+      description: Edge runtimes, local control, and on-device inference
+
+crossReference:
+  - resource: devices
+    operations:
+      - list
+      - get
+      - create
+      - update
+    workflows:
+      - Device Onboarding and Provisioning
+    personas:
+      - IoT Platform Engineer
+  - resource: telemetry-events
+    operations:
+      - publish
+      - subscribe
+      - query
+    workflows:
+      - Telemetry Ingestion and Routing
+    personas:
+      - Data Engineer
+  - resource: firmware-updates
+    operations:
+      - create
+      - get
+      - cancel
+    workflows:
+      - Fleet OTA Firmware Update
+    personas:
+      - Fleet Operator
+  - resource: commands
+    operations:
+      - send
+      - get
+    workflows:
+      - Smart Home Automation
+    personas:
+      - Smart Home Consumer

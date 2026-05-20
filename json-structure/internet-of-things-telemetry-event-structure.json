@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-structure.org/meta/core/v0/#",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/internet-of-things/refs/heads/main/json-structure/internet-of-things-telemetry-event-structure.json",
+  "name": "TelemetryEvent",
+  "description": "Represents a single telemetry message emitted by a connected device, typically published over MQTT, CoAP, or HTTP to an IoT platform topic.",
+  "type": "object",
+  "properties": {
+    "event_id": {
+      "type": "string",
+      "description": "Unique identifier for the telemetry event, often a UUID or platform-assigned id.",
+      "example": "01HZTQA7C9NX5W1B8RX4E2Y3M9"
+    },
+    "device_id": {
+      "type": "string",
+      "description": "Identifier of the device that produced the telemetry event.",
+      "example": "thermostat-living-room-01"
+    },
+    "topic": {
+      "type": "string",
+      "description": "MQTT topic, CoAP resource, or logical channel the event was published to.",
+      "example": "homes/123/devices/thermostat-living-room-01/telemetry"
+    },
+    "timestamp": {
+      "type": "datetime",
+      "description": "Time the device generated the event (device clock).",
+      "example": "2026-05-19T14:32:11Z"
+    },
+    "received_at": {
+      "type": "datetime",
+      "description": "Time the platform received and ingested the event.",
+      "example": "2026-05-19T14:32:11.412Z"
+    },
+    "metric": {
+      "type": "string",
+      "description": "Name of the metric or measurement carried by the event.",
+      "example": "temperature_celsius"
+    },
+    "value": {
+      "type": "any",
+      "description": "Numeric, boolean, string, or structured value reported by the device.",
+      "example": 21.5
+    },
+    "unit": {
+      "type": "string",
+      "description": "Unit of measurement for the reported value, when applicable.",
+      "example": "C"
+    },
+    "quality": {
+      "type": "string",
+      "description": "Quality indicator for the reported value.",
+      "enum": ["good", "uncertain", "bad"],
+      "example": "good"
+    },
+    "qos": {
+      "type": "integer",
+      "description": "MQTT quality-of-service level used to publish the message.",
+      "enum": [0, 1, 2],
+      "example": 1
+    },
+    "metadata": {
+      "type": "object",
+      "description": "Additional metadata attached to the event, such as firmware version, signal strength, or correlation ids.",
+      "additionalProperties": true
+    }
+  },
+  "required": ["device_id", "metric", "timestamp", "value"]
+}

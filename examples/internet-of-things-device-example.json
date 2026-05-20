@@ -1,0 +1,30 @@
+{
+  "device_id": "thermostat-living-room-01",
+  "name": "Living Room Thermostat",
+  "device_type": "thermostat",
+  "manufacturer": "Google Nest",
+  "model": "Nest Learning Thermostat 3rd Gen",
+  "firmware_version": "6.2.4",
+  "protocol": "mqtts",
+  "connection_status": "connected",
+  "last_seen": "2026-05-19T14:32:11Z",
+  "location": {
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "room": "Living Room",
+    "site": "Home"
+  },
+  "shadow": {
+    "reported": {
+      "ambient_temperature_c": 21.5,
+      "target_temperature_c": 22.0,
+      "hvac_mode": "heat",
+      "humidity_percent": 41
+    },
+    "desired": {
+      "target_temperature_c": 22.5,
+      "hvac_mode": "heat"
+    }
+  },
+  "tags": ["downstairs", "primary", "owner-kin"]
+}

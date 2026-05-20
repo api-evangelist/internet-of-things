@@ -1,0 +1,105 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "iot": "https://api-evangelist.github.io/internet-of-things/schema/",
+    "schema": "https://schema.org/",
+    "dcterms": "http://purl.org/dc/terms/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "sosa": "http://www.w3.org/ns/sosa/",
+    "ssn": "http://www.w3.org/ns/ssn/",
+    "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#",
+
+    "Device": "sosa:Platform",
+    "Sensor": "sosa:Sensor",
+    "Actuator": "sosa:Actuator",
+    "TelemetryEvent": "sosa:Observation",
+    "DeviceShadow": "iot:DeviceShadow",
+    "Command": "iot:Command",
+
+    "device_id": "dcterms:identifier",
+    "event_id": "dcterms:identifier",
+    "name": "schema:name",
+    "description": "schema:description",
+    "manufacturer": "schema:manufacturer",
+    "model": "schema:model",
+    "firmware_version": {
+      "@id": "iot:firmware_version",
+      "@type": "xsd:string"
+    },
+    "device_type": {
+      "@id": "iot:device_type",
+      "@type": "xsd:string"
+    },
+    "protocol": {
+      "@id": "iot:protocol",
+      "@type": "xsd:string"
+    },
+    "connection_status": {
+      "@id": "iot:connection_status",
+      "@type": "xsd:string"
+    },
+    "last_seen": {
+      "@id": "iot:last_seen",
+      "@type": "xsd:dateTime"
+    },
+    "timestamp": {
+      "@id": "sosa:resultTime",
+      "@type": "xsd:dateTime"
+    },
+    "received_at": {
+      "@id": "iot:received_at",
+      "@type": "xsd:dateTime"
+    },
+    "topic": {
+      "@id": "iot:topic",
+      "@type": "xsd:string"
+    },
+    "metric": {
+      "@id": "sosa:observedProperty",
+      "@type": "xsd:string"
+    },
+    "value": "sosa:hasSimpleResult",
+    "unit": {
+      "@id": "iot:unit",
+      "@type": "xsd:string"
+    },
+    "quality": {
+      "@id": "iot:quality",
+      "@type": "xsd:string"
+    },
+    "qos": {
+      "@id": "iot:qos",
+      "@type": "xsd:integer"
+    },
+    "location": "schema:location",
+    "latitude": {
+      "@id": "geo:lat",
+      "@type": "xsd:double"
+    },
+    "longitude": {
+      "@id": "geo:long",
+      "@type": "xsd:double"
+    },
+    "shadow": {
+      "@id": "iot:shadow",
+      "@type": "@id"
+    },
+    "reported": {
+      "@id": "iot:reported",
+      "@type": "@json"
+    },
+    "desired": {
+      "@id": "iot:desired",
+      "@type": "@json"
+    },
+    "tags": {
+      "@id": "schema:keywords",
+      "@container": "@set",
+      "@type": "xsd:string"
+    },
+    "metadata": {
+      "@id": "iot:metadata",
+      "@type": "@json"
+    }
+  }
+}

@@ -1,0 +1,145 @@
+aid: internet-of-things
+name: Internet of Things
+description: >-
+  An index and topic collection covering consumer and commercial Internet of Things (IoT) platforms, smart home ecosystems, connected device APIs, and the messaging and edge protocols that bind them
+  together. This collection focuses on cloud IoT services such as AWS IoT Core, smart home and connected device platforms like Google Nest, Tuya, IFTTT, and Reolink, MQTT brokers like HiveMQ and Mosquitto,
+  edge runtimes like KubeEdge and LF Edge, and the standards and SDKs that connect millions of devices to APIs every day. Distinct from the Industrial topic, which focuses on OT and manufacturing systems.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+- IoT
+- Smart Home
+- Connected Devices
+- MQTT
+- LoRaWAN
+- Edge
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/internet-of-things/refs/heads/main/apis.yml
+created: '2026-05-19'
+modified: '2026-05-19'
+specificationVersion: '0.19'
+apis: []
+network:
+- name: Amazon IoT Core
+  url: https://raw.githubusercontent.com/api-evangelist/amazon-iot-core/refs/heads/main/apis.yml
+- name: Amazon IoT Device Management
+  url: https://raw.githubusercontent.com/api-evangelist/amazon-iot-device-management/refs/heads/main/apis.yml
+- name: Amazon IoT Device Defender
+  url: https://raw.githubusercontent.com/api-evangelist/amazon-iot-device-defender/refs/heads/main/apis.yml
+- name: Amazon IoT Events
+  url: https://raw.githubusercontent.com/api-evangelist/amazon-iot-events/refs/heads/main/apis.yml
+- name: Amazon IoT Greengrass
+  url: https://raw.githubusercontent.com/api-evangelist/amazon-iot-greengrass/refs/heads/main/apis.yml
+- name: Amazon IoT FleetWise
+  url: https://raw.githubusercontent.com/api-evangelist/amazon-iot-fleetwise/refs/heads/main/apis.yml
+- name: Amazon IoT TwinMaker
+  url: https://raw.githubusercontent.com/api-evangelist/amazon-iot-twinmaker/refs/heads/main/apis.yml
+- name: Amazon FreeRTOS
+  url: https://raw.githubusercontent.com/api-evangelist/amazon-freertos/refs/heads/main/apis.yml
+- name: Google Nest
+  url: https://raw.githubusercontent.com/api-evangelist/google-nest/refs/heads/main/apis.yml
+- name: Tuya
+  url: https://raw.githubusercontent.com/api-evangelist/tuya/refs/heads/main/apis.yml
+- name: IFTTT
+  url: https://raw.githubusercontent.com/api-evangelist/ifttt/refs/heads/main/apis.yml
+- name: HiveMQ
+  url: https://raw.githubusercontent.com/api-evangelist/hivemq/refs/heads/main/apis.yml
+- name: MQTT
+  url: https://raw.githubusercontent.com/api-evangelist/mqtt/refs/heads/main/apis.yml
+- name: PubNub
+  url: https://raw.githubusercontent.com/api-evangelist/pubnub/refs/heads/main/apis.yml
+- name: NATS
+  url: https://raw.githubusercontent.com/api-evangelist/nats/refs/heads/main/apis.yml
+- name: Cisco Meraki
+  url: https://raw.githubusercontent.com/api-evangelist/cisco-meraki/refs/heads/main/apis.yml
+- name: Samsara
+  url: https://raw.githubusercontent.com/api-evangelist/samsara/refs/heads/main/apis.yml
+- name: Samsung
+  url: https://raw.githubusercontent.com/api-evangelist/samsung/refs/heads/main/apis.yml
+- name: Philips
+  url: https://raw.githubusercontent.com/api-evangelist/philips/refs/heads/main/apis.yml
+- name: KubeEdge
+  url: https://raw.githubusercontent.com/api-evangelist/kubeedge/refs/heads/main/apis.yml
+- name: LF Edge
+  url: https://raw.githubusercontent.com/api-evangelist/lf-edge/refs/heads/main/apis.yml
+- name: OpenYurt
+  url: https://raw.githubusercontent.com/api-evangelist/openyurt/refs/heads/main/apis.yml
+- name: Aklivity
+  url: https://raw.githubusercontent.com/api-evangelist/aklivity/refs/heads/main/apis.yml
+- name: mParticle
+  url: https://raw.githubusercontent.com/api-evangelist/mparticle/refs/heads/main/apis.yml
+- name: Telnyx
+  url: https://raw.githubusercontent.com/api-evangelist/telnyx/refs/heads/main/apis.yml
+- name: Reolink
+  url: https://raw.githubusercontent.com/api-evangelist/reolink/refs/heads/main/apis.yml
+- name: Neolink
+  url: https://raw.githubusercontent.com/api-evangelist/neolink/refs/heads/main/apis.yml
+- name: Parklio
+  url: https://raw.githubusercontent.com/api-evangelist/parklio/refs/heads/main/apis.yml
+- name: BLE
+  url: https://raw.githubusercontent.com/api-evangelist/ble/refs/heads/main/apis.yml
+- name: Zephyr Project
+  url: https://raw.githubusercontent.com/api-evangelist/zephyr/refs/heads/main/apis.yml
+common:
+- type: Portal
+  url: https://apievangelist.com
+- type: GitHubOrganization
+  url: https://github.com/api-evangelist
+- type: Features
+  data:
+  - name: Device Identity and Provisioning
+    description: IoT platforms issue per-device credentials, X.509 certificates, and identities so connected devices can authenticate to cloud services and to each other across the network.
+  - name: MQTT and Pub/Sub Messaging
+    description: Lightweight publish/subscribe messaging via MQTT, CoAP, and similar protocols is the dominant pattern for moving telemetry from constrained devices to cloud backends.
+  - name: Device Shadows and State Synchronization
+    description: Cloud IoT services maintain a virtual representation (shadow or twin) of each device that mirrors and synchronizes desired and reported state across intermittent connectivity.
+  - name: Rules Engines and Telemetry Routing
+    description: IoT platforms include rules engines that filter, transform, and route incoming telemetry to databases, analytics services, notification channels, and downstream APIs.
+  - name: Over-the-Air (OTA) Firmware Updates
+    description: Connected device platforms offer managed OTA firmware update delivery, rollout orchestration, and rollback for fleets ranging from a few units to millions.
+  - name: Edge Computing and Local Runtimes
+    description: Runtimes like AWS Greengrass, KubeEdge, and LF Edge push compute, ML inference, and message brokering to gateways and devices for low-latency local control.
+  - name: Smart Home Integration and Automation
+    description: Smart home platforms expose device APIs and event triggers that enable cross-vendor automation, voice control, and consumer-facing routines like "good morning" or geofenced actions.
+  - name: Long-Range Low-Power Connectivity
+    description: LoRaWAN, cellular IoT, and similar long-range low-power networks connect battery-powered sensors and trackers that operate for years on a single charge.
+- type: UseCases
+  data:
+  - name: Smart Home Automation
+    description: Consumers connect lights, locks, cameras, thermostats, and voice assistants through platforms like Google Nest, Tuya, and IFTTT to create cross-device routines and remote control.
+  - name: Connected Camera and Security
+    description: Platforms like Reolink and Neolink expose APIs for live video, motion events, and recording management so security cameras can be integrated into broader home and business workflows.
+  - name: Fleet and Asset Tracking
+    description: Commercial IoT platforms like Samsara stream vehicle telemetry, location, and driver behavior to cloud dashboards and APIs for logistics and fleet management.
+  - name: Industrial-Grade Device Management at Scale
+    description: AWS IoT Device Management and similar services let operators register, organize, monitor, and update millions of connected devices through a single API surface.
+  - name: Real-Time Telemetry Pipelines
+    description: MQTT brokers like HiveMQ and Mosquitto, combined with stream processors, ingest billions of telemetry events per day from devices into analytics and storage systems.
+  - name: Edge AI and Local Inference
+    description: Edge runtimes like AWS Greengrass and KubeEdge run ML models close to devices for fast local decisions in industrial cameras, vehicles, and smart appliances.
+  - name: Connected Mobility and EVs
+    description: Vehicle platforms and OEM APIs expose location, charging, and diagnostic data for electric vehicles and connected cars, enabling routing, charging, and maintenance integrations.
+  - name: Event-Driven Consumer Automation
+    description: IFTTT and similar platforms let consumers wire IoT devices to web APIs through if-this-then-that recipes that span dozens of vendors and services.
+- type: Integrations
+  data:
+  - name: AWS IoT Core
+    description: Managed cloud service that brokers MQTT, HTTPS, and WebSocket connections from devices and routes messages to AWS services through a rules engine.
+  - name: HiveMQ
+    description: Enterprise-grade MQTT broker platform used for connecting millions of IoT devices with extensions for Kafka, security, and observability.
+  - name: Google Nest
+    description: API platform for thermostats, cameras, and doorbells in the Google smart home ecosystem, exposing device state, events, and control.
+  - name: Tuya
+    description: Global IoT platform powering tens of thousands of branded smart home devices through unified cloud APIs and SDKs.
+  - name: IFTTT
+    description: Consumer automation platform that connects IoT devices, web apps, and services through user-authored conditional recipes.
+  - name: Cisco Meraki
+    description: Cloud-managed networking and IoT platform with APIs for cameras, environmental sensors, and Wi-Fi-connected device telemetry.
+  - name: Samsara
+    description: Connected operations platform for vehicles, equipment, and sites with APIs for telemetry, video, and driver safety data.
+  - name: KubeEdge
+    description: Open-source CNCF project extending Kubernetes orchestration to edge nodes and IoT devices for managed edge workloads.
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
+humanURL: https://apievangelist.com

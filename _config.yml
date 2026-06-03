@@ -1,0 +1,23 @@
+title: Internet of Things
+description: An index and topic collection covering consumer and commercial Internet
+  of Things (IoT) platforms, smart home ecosystems, connected device APIs, and the
+  messaging and edge protocols that bind them together. This collection focuses on
+  cloud IoT services such as AWS IoT Core, smart home and connected device platforms
+  like Google Nest, Tuya, IFTTT, and Reolink, MQTT brokers like HiveMQ and Mosquitto,
+  edge runtimes like KubeEdge and LF Edge, and the standards and SDKs that connect
+  millions of devices to APIs every day. Distinct from the Industrial topic, which
+  focuses on OT and manufacturing systems.
+url: https://internet-of-things.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary

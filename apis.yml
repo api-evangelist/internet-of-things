@@ -5,7 +5,7 @@ description: >-
   together. This collection focuses on cloud IoT services such as AWS IoT Core, smart home and connected device platforms like Google Nest, Tuya, IFTTT, and Reolink, MQTT brokers like HiveMQ and Mosquitto,
   edge runtimes like KubeEdge and LF Edge, and the standards and SDKs that connect millions of devices to APIs every day. Distinct from the Industrial topic, which focuses on OT and manufacturing systems.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
 - IoT
 - Smart Home

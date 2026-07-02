@@ -1,0 +1,21 @@
+related:
+- name: Industrial
+  url: https://industrial.apievangelist.com
+  icon: https://industrial.apievangelist.com/icon.png
+  description: An index and topic collection covering industrial APIs across industrial IoT (IIoT), operational
+    technology (OT), SCADA, manufacturing, smart factory, asset management, predictive…
+- name: Serverless
+  url: https://serverless.apievangelist.com
+  icon: https://serverless.apievangelist.com/icon.png
+  description: An index and topic collection covering serverless compute, function-as-a-service (FaaS)
+    runtimes, and edge function platforms. Serverless platforms abstract away server…
+- name: API Proxies
+  url: https://api-proxies.apievangelist.com
+  icon: https://api-proxies.apievangelist.com/icon.png
+  description: An index and topic collection covering reverse-proxy and edge-proxy software used in front
+    of APIs, including HTTP reverse proxies, edge proxies, load balancers, caching proxies,…
+- name: Caching
+  url: https://caching.apievangelist.com
+  icon: https://caching.apievangelist.com/icon.png
+  description: An index and topic collection covering API-accessible caching services, in-memory data
+    stores, key-value caches, and edge/CDN cache APIs. Caching reduces latency, lowers backend…

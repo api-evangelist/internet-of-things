@@ -1,7 +1,7 @@
 ---
-title: Using the Multimodal Feature with Smart Search AI MCP
-link: https://wpengine.com/blog/smart-search-ai-mcp-multimodal/
-published: '2026-06-11'
+title: Understanding WP Engine’s Smart Search AI Model Context Protocol (MCP) Server
+link: https://wpengine.com/blog/understanding-smart-search-mcp-server/
+published: '2026-08-11'
 provider: wpengine
 repo: https://github.com/api-evangelist/wpengine
 domain: wpengine.com

@@ -1,5 +1,6 @@
 aid: internet-of-things
 name: Internet of Things
+kind: topic
 description: >-
   An index and topic collection covering consumer and commercial Internet of Things (IoT) platforms, smart home ecosystems, connected device APIs, and the messaging and edge protocols that bind them
   together. This collection focuses on cloud IoT services such as AWS IoT Core, smart home and connected device platforms like Google Nest, Tuya, IFTTT, and Reolink, MQTT brokers like HiveMQ and Mosquitto,

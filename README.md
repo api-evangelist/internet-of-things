@@ -1,124 +1,97 @@
-# Internet of Things (internet-of-things)
+# Internet of Things
+
+<!-- API-EVANGELIST-PROVENANCE:BEGIN -->
+> ### About this repository
+>
+> **This is not our API.** This repository is an independent, third-party profile of a company's
+> **publicly available** API surface, maintained by [API Evangelist](https://apievangelist.com).
+> API Evangelist does not operate, host, resell, or support this company's APIs, and is not
+> affiliated with or endorsed by the company unless stated on the profile.
+>
+> **Where the information came from.** Everything here is assembled from material a member of the
+> public can reach with a browser and no credentials — the company's own website, developer portal
+> and documentation, the specifications it publishes for public use (OpenAPI, AsyncAPI, JSON Schema,
+> `apis.json`, `llms.txt` and similar), its public repositories, and its public status, pricing and
+> changelog pages. **Nothing here is obtained by breaching a system, defeating an access control, or
+> using credentials of any kind.**
+>
+> **The rating is an independent assessment.** The Kin Score and Agent Readiness rating are
+> independently calculated scores of a company's *public* API artifacts, produced by API Evangelist
+> against a published rubric. They are not certifications, endorsements, security assessments, or
+> audits, and they score published artifacts — not the quality, safety, or security of the software.
+>
+> **Corrections, re-scores, and removal are free.** No partnership, contract, or purchase is
+> required, and you do not need to justify the request.
+>
+> - **Something wrong?** Open an issue on this repository, or email
+>   [info@apievangelist.com](mailto:info@apievangelist.com).
+> - **Published something new?** Ask for a re-score and we will re-run the rating.
+> - **Want the listing taken down?** Say so and we will honor it. The profile is reduced to your
+>   company name, a factual description, and a link to your own site, and the company is recorded as
+>   **unrated** — never scored zero for having asked.
+>
+> **Response times.** Acknowledgement within **one business day**; removal or restriction within
+> **two business days**; corrections and re-scores within **five business days**.
+>
+> **Not from the company, and here with a question?** You are welcome here — we would rather be the
+> front line and point you the right way than have a good report go nowhere. What this repository
+> can answer is narrow, though, so it is worth knowing who you are actually looking for:
+>
+> - **A question about how the API works, an account, billing, or a bug in the service** — that is
+>   the company's own support, not us. We profile this API; we do not operate it and cannot see
+>   your account.
+> - **A bug in an open-source project we only catalog** — file it on that project's own repository.
+>   This has happened with a real and correct bug report that reached us instead of the people who
+>   could fix it, which helped nobody.
+> - **Anything about this listing itself** — the description, the tags, the rating, a missing or
+>   wrong artifact — is ours. Open an issue here.
+> - **Not sure, or something general about API Evangelist or APIs.io** — open an issue on the
+>   [APIs.io Inbox](https://github.com/api-search/inbox) and we will route it.
+>
+> **This repository contains no software, and we will never ask you to download anything.** There is
+> no build, release, installer, or binary here — only text and machine-readable API descriptions, so
+> there is nothing here that can be "corrupt" or need "repairing". Any issue, comment, or email
+> claiming otherwise and offering a download link is not from us and is hostile. Do not follow the
+> link; it is a lure. Report it to GitHub and, if you like, tell us at
+> [info@apievangelist.com](mailto:info@apievangelist.com) so we can take it down.
+>
+> **On a security or compliance team?** Email
+> [info@apievangelist.com](mailto:info@apievangelist.com) with *security* in the subject line and
+> you will get a person, not a form. We will tell you exactly which public URLs this profile was
+> built from so your team can see the same surface we did, and we will take the listing down on
+> request while you work through it.
+>
+> Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
+<!-- API-EVANGELIST-PROVENANCE:END -->
+
 An index and topic collection covering consumer and commercial Internet of Things (IoT) platforms, smart home ecosystems, connected device APIs, and the messaging and edge protocols that bind them together. This collection focuses on cloud IoT services such as AWS IoT Core, smart home and connected device platforms like Google Nest, Tuya, IFTTT, and Reolink, MQTT brokers like HiveMQ and Mosquitto, edge runtimes like KubeEdge and LF Edge, and the standards and SDKs that connect millions of devices to APIs every day. Distinct from the Industrial topic, which focuses on OT and manufacturing systems.
 
-**URL:** [https://apievangelist.com](https://apievangelist.com)
+**Areas:** IoT · Smart Home · Connected Devices · MQTT · LoRaWAN · Edge
 
-## Tags:
+## Internet of Things on APIs.io
 
- - IoT, Smart Home, Connected Devices, MQTT, LoRaWAN, Edge
+Everything profiled for Internet of Things is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/internet-of-things/](https://apis.io/providers/internet-of-things/)** — or go straight to one of the APIs or properties below.
 
-## Timestamps
+## Where to find this API
 
-- **Created:** 2026-05-19
-- **Modified:** 2026-05-19
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-## Common Properties
+- [GitHub](https://github.com/api-evangelist)
 
-- [Portal](https://apievangelist.com)
-- [GitHubOrganization](https://github.com/api-evangelist)
-- [JSONSchema - Device Schema](https://raw.githubusercontent.com/api-evangelist/internet-of-things/refs/heads/main/json-schema/internet-of-things-device-schema.json)
-- [JSONSchema - Telemetry Event Schema](https://raw.githubusercontent.com/api-evangelist/internet-of-things/refs/heads/main/json-schema/internet-of-things-telemetry-event-schema.json)
-- [JSON-LD](https://raw.githubusercontent.com/api-evangelist/internet-of-things/refs/heads/main/json-ld/internet-of-things-context.jsonld)
-- [Vocabulary](https://raw.githubusercontent.com/api-evangelist/internet-of-things/refs/heads/main/vocabulary/internet-of-things-vocabulary.yaml)
+## API Evangelist rating
 
-## Features
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-| Name | Description |
-|------|-------------|
-| Device Identity and Provisioning | IoT platforms issue per-device credentials, X.509 certificates, and identities so connected devices can authenticate to cloud services and to each other across the network. |
-| MQTT and Pub/Sub Messaging | Lightweight publish/subscribe messaging via MQTT, CoAP, and similar protocols is the dominant pattern for moving telemetry from constrained devices to cloud backends. |
-| Device Shadows and State Synchronization | Cloud IoT services maintain a virtual representation (shadow or twin) of each device that mirrors and synchronizes desired and reported state across intermittent connectivity. |
-| Rules Engines and Telemetry Routing | IoT platforms include rules engines that filter, transform, and route incoming telemetry to databases, analytics services, notification channels, and downstream APIs. |
-| Over-the-Air (OTA) Firmware Updates | Connected device platforms offer managed OTA firmware update delivery, rollout orchestration, and rollback for fleets ranging from a few units to millions. |
-| Edge Computing and Local Runtimes | Runtimes like AWS Greengrass, KubeEdge, and LF Edge push compute, ML inference, and message brokering to gateways and devices for low-latency local control. |
-| Smart Home Integration and Automation | Smart home platforms expose device APIs and event triggers that enable cross-vendor automation, voice control, and consumer-facing routines like "good morning" or geofenced actions. |
-| Long-Range Low-Power Connectivity | LoRaWAN, cellular IoT, and similar long-range low-power networks connect battery-powered sensors and trackers that operate for years on a single charge. |
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
-## Use Cases
+## How this profile is made
 
-| Name | Description |
-|------|-------------|
-| Smart Home Automation | Consumers connect lights, locks, cameras, thermostats, and voice assistants through platforms like Google Nest, Tuya, and IFTTT to create cross-device routines and remote control. |
-| Connected Camera and Security | Platforms like Reolink and Neolink expose APIs for live video, motion events, and recording management so security cameras can be integrated into broader workflows. |
-| Fleet and Asset Tracking | Commercial IoT platforms like Samsara stream vehicle telemetry, location, and driver behavior to cloud dashboards and APIs for logistics and fleet management. |
-| Industrial-Grade Device Management at Scale | AWS IoT Device Management and similar services let operators register, organize, monitor, and update millions of connected devices through a single API surface. |
-| Real-Time Telemetry Pipelines | MQTT brokers like HiveMQ and Mosquitto, combined with stream processors, ingest billions of telemetry events per day from devices into analytics and storage systems. |
-| Edge AI and Local Inference | Edge runtimes like AWS Greengrass and KubeEdge run ML models close to devices for fast local decisions in industrial cameras, vehicles, and smart appliances. |
-| Connected Mobility and EVs | Vehicle platforms and OEM APIs expose location, charging, and diagnostic data for electric vehicles and connected cars, enabling routing, charging, and maintenance integrations. |
-| Event-Driven Consumer Automation | IFTTT and similar platforms let consumers wire IoT devices to web APIs through if-this-then-that recipes that span dozens of vendors and services. |
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Integrations
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Internet of Things: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-| Name | Description |
-|------|-------------|
-| AWS IoT Core | Managed cloud service that brokers MQTT, HTTPS, and WebSocket connections from devices and routes messages to AWS services through a rules engine. |
-| HiveMQ | Enterprise-grade MQTT broker platform used for connecting millions of IoT devices with extensions for Kafka, security, and observability. |
-| Google Nest | API platform for thermostats, cameras, and doorbells in the Google smart home ecosystem, exposing device state, events, and control. |
-| Tuya | Global IoT platform powering tens of thousands of branded smart home devices through unified cloud APIs and SDKs. |
-| IFTTT | Consumer automation platform that connects IoT devices, web apps, and services through user-authored conditional recipes. |
-| Cisco Meraki | Cloud-managed networking and IoT platform with APIs for cameras, environmental sensors, and Wi-Fi-connected device telemetry. |
-| Samsara | Connected operations platform for vehicles, equipment, and sites with APIs for telemetry, video, and driver safety data. |
-| KubeEdge | Open-source CNCF project extending Kubernetes orchestration to edge nodes and IoT devices for managed edge workloads. |
+## Open an issue
 
-## Artifacts
-
-Machine-readable API specifications organized by format.
-
-### JSON Schema
-
-- [Device Schema](json-schema/internet-of-things-device-schema.json)
-- [Telemetry Event Schema](json-schema/internet-of-things-telemetry-event-schema.json)
-
-### JSON Structure
-
-- [Device Structure](json-structure/internet-of-things-device-structure.json)
-- [Telemetry Event Structure](json-structure/internet-of-things-telemetry-event-structure.json)
-
-### JSON-LD
-
-- [Internet of Things Context](json-ld/internet-of-things-context.jsonld)
-
-## Vocabulary
-
-- [Internet of Things Vocabulary](vocabulary/internet-of-things-vocabulary.yaml) - Unified taxonomy mapping resources, actions, workflows, and personas across cloud IoT, smart home, MQTT messaging, and edge runtimes
-
-## Network
-
-This index references the following Internet of Things repositories:
-
-- [Amazon IoT Core](https://github.com/api-evangelist/amazon-iot-core)
-- [Amazon IoT Device Management](https://github.com/api-evangelist/amazon-iot-device-management)
-- [Amazon IoT Device Defender](https://github.com/api-evangelist/amazon-iot-device-defender)
-- [Amazon IoT Events](https://github.com/api-evangelist/amazon-iot-events)
-- [Amazon IoT Greengrass](https://github.com/api-evangelist/amazon-iot-greengrass)
-- [Amazon IoT FleetWise](https://github.com/api-evangelist/amazon-iot-fleetwise)
-- [Amazon IoT TwinMaker](https://github.com/api-evangelist/amazon-iot-twinmaker)
-- [Amazon FreeRTOS](https://github.com/api-evangelist/amazon-freertos)
-- [Google Nest](https://github.com/api-evangelist/google-nest)
-- [Tuya](https://github.com/api-evangelist/tuya)
-- [IFTTT](https://github.com/api-evangelist/ifttt)
-- [HiveMQ](https://github.com/api-evangelist/hivemq)
-- [MQTT](https://github.com/api-evangelist/mqtt)
-- [PubNub](https://github.com/api-evangelist/pubnub)
-- [NATS](https://github.com/api-evangelist/nats)
-- [Cisco Meraki](https://github.com/api-evangelist/cisco-meraki)
-- [Samsara](https://github.com/api-evangelist/samsara)
-- [Samsung](https://github.com/api-evangelist/samsung)
-- [Philips](https://github.com/api-evangelist/philips)
-- [KubeEdge](https://github.com/api-evangelist/kubeedge)
-- [LF Edge](https://github.com/api-evangelist/lf-edge)
-- [OpenYurt](https://github.com/api-evangelist/openyurt)
-- [Aklivity](https://github.com/api-evangelist/aklivity)
-- [mParticle](https://github.com/api-evangelist/mparticle)
-- [Telnyx](https://github.com/api-evangelist/telnyx)
-- [Reolink](https://github.com/api-evangelist/reolink)
-- [Neolink](https://github.com/api-evangelist/neolink)
-- [Parklio](https://github.com/api-evangelist/parklio)
-- [BLE](https://github.com/api-evangelist/ble)
-- [Zephyr Project](https://github.com/api-evangelist/zephyr)
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/internet-of-things/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
